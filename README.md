@@ -1,6 +1,6 @@
 # Cryptography_2020
 
-# EXCERCISES:
+### EXCERCISES:
 ***No.3*** Vigenere - **(NOT SOLVED)** - *(Description Only - How to)*
 
 ***No.5*** Dictionary Attack - **(SOLVED)** - *(Maybe needs cleanup)*
