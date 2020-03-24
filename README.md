@@ -2,10 +2,10 @@
 
 ### EXCERCISES:
 
-- [ ] ***No.1***
-- [ ] ***No.2***
+- [ ] ***No.1*** RC4 & OTP - *(Still On It)* @SotirisFtiakas
+- [ ] ***No.2*** Avalanche Effect - *(Still On It)* @SotirisFtiakas
 - [ ] ***No.3*** Vigenere - *(Description Only - How to)* @SotirisFtiakas
-- [ ] ***No.4***
+- [ ] ***No.4*** K,E,Y - *(Need to transfer from paper to code)* @SotirisFtiakas
 - [x] ***No.5*** Dictionary Attack - *(Cleanup needed)* @GregB712
 - [ ] ***No.6***
 - [ ] ***No.7***
