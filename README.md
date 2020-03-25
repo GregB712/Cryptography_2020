@@ -2,7 +2,7 @@
 
 ### EXCERCISES:
 
-- [ ] ***No.1*** RC4 & OTP - *(Still On It)* @SotirisFtiakas
+- [x] ***No.1*** RC4 & OTP - *(Need to review ii) at the end to check if correct)* @SotirisFtiakas
 - [ ] ***No.2*** Avalanche Effect - *(Still On It)* @SotirisFtiakas
 - [ ] ***No.3*** Vigenere - *(Description Only - How to)* @SotirisFtiakas
 - [ ] ***No.4*** K,E,Y - *(Need to transfer from paper to code)* @SotirisFtiakas
