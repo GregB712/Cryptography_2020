@@ -7,16 +7,16 @@
 - [ ] ***No.3*** Vigenere - *(Description Only - How to)* @SotirisFtiakas @GregB712
 - [ ] ***No.4*** K,E,Y - *(Need to transfer from paper to code)* @SotirisFtiakas
 - [x] ***No.5*** Dictionary Attack - *(Cleanup needed)* @GregB712
-- [ ] ***No.6***
-- [ ] ***No.7***
-- [ ] ***No.8***
-- [ ] ***No.9***
-- [ ] ***No.10***
-- [ ] ***No.11***
-- [ ] ***No.12***
+- [ ] ***No.6*** @SotirisFtiakas
+- [ ] ***No.7*** @GregB712
+- [ ] ***No.8*** @SotirisFtiakas
+- [ ] ***No.9*** @GregB712
+- [ ] ***No.10*** @SotirisFtiakas
+- [ ] ***No.11*** @GregB712
+- [ ] ***No.12*** @SotirisFtiakas
 - [ ] ***No.13*** Chinese Theorem - *(Code, needs theoretically)* @GregB712
-- [ ] ***No.14***
-- [ ] ***No.15***
+- [ ] ***No.14*** @SotirisFtiakas
+- [ ] ***No.15*** @GregB712
 - [ ] ***No.16***
 - [ ] ***No.17***
 - [ ] ***No.18***
