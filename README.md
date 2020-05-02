@@ -11,12 +11,12 @@
 - [x] ***No.7*** Shift Operator (<<) @GregB712
 - [ ] ***No.8*** @SotirisFtiakas
 - [x] ***No.9*** @GregB712
-- [ ] ***No.10*** @SotirisFtiakas
+- [ ] ***No.10*** @GregB712
 - [ ] ***No.11*** @GregB712
 - [ ] ***No.12*** @SotirisFtiakas
 - [ ] ***No.13*** Chinese Theorem - *(Code, needs theoretically)* @GregB712
 - [ ] ***No.14*** @SotirisFtiakas
-- [ ] ***No.15*** @GregB712
+- [ ] ***No.15*** @SotirisFtiakas
 - [ ] ***No.16***
 - [ ] ***No.17***
 - [ ] ***No.18***
