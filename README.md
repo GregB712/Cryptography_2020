@@ -8,7 +8,7 @@
 - [ ] ***No.4*** K,E,Y - *(Need to transfer from paper to code)* @SotirisFtiakas
 - [x] ***No.5*** Dictionary Attack - *(Cleanup needed)* @GregB712
 - [ ] ***No.6*** @SotirisFtiakas
-- [x] ***No.7*** @GregB712
+- [x] ***No.7*** Shift Operator (<<) @GregB712
 - [ ] ***No.8*** @SotirisFtiakas
 - [ ] ***No.9*** @GregB712
 - [ ] ***No.10*** @SotirisFtiakas
