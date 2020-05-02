@@ -10,7 +10,7 @@
 - [x] ***No.6*** LFSR @SotirisFtiakas
 - [x] ***No.7*** Shift Operator (<<) @GregB712
 - [ ] ***No.8*** @SotirisFtiakas
-- [ ] ***No.9*** @GregB712
+- [x] ***No.9*** @GregB712
 - [ ] ***No.10*** @SotirisFtiakas
 - [ ] ***No.11*** @GregB712
 - [ ] ***No.12*** @SotirisFtiakas
