@@ -6,7 +6,7 @@
 - [x] ***No.2*** Avalanche Effect @SotirisFtiakas
 - [ ] ***No.3*** Vigenere - *(Description Only - How to)* @SotirisFtiakas @GregB712
 - [ ] ***No.4*** K,E,Y - *(Need to transfer from paper to code)* @SotirisFtiakas
-- [x] ***No.5*** Dictionary Attack - *(Cleanup needed)* @GregB712
+- [x] ***No.5*** Dictionary Attack @GregB712
 - [x] ***No.6*** LFSR @SotirisFtiakas
 - [x] ***No.7*** Shift Operator (<<) @GregB712
 - [ ] ***No.8*** @SotirisFtiakas
@@ -14,7 +14,7 @@
 - [ ] ***No.10*** 
 - [ ] ***No.11*** 
 - [ ] ***No.12*** 
-- [ ] ***No.13*** Chinese Theorem - *(Code, needs theoretically)* @GregB712
+- [x] ***No.13*** Chinese Theorem @GregB712
 - [ ] ***No.14*** 
 - [ ] ***No.15*** 
 - [ ] ***No.16***
