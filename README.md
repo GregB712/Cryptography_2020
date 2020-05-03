@@ -19,12 +19,12 @@
 - [ ] ***No.15*** 
 - [ ] ***No.16***
 - [ ] ***No.17***
-- [x] ***No.18*** @GregB712
+- [x] ***No.18*** secure.zip @GregB712
 - [ ] ***No.19***
 - [ ] ***No.20***
 - [ ] ***No.21***
-- [ ] ***No.22***
-- [ ] ***No.23***
+- [x] ***No.22*** 4n+3 @GregB712
+- [x] ***No.23*** Sum of consecutive numbers not equals 2^x @GregB712
 - [ ] ***No.24***
 - [ ] ***No.25***
 - [ ] ***No.26***
