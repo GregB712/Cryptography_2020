@@ -10,7 +10,7 @@
 - [x] ***No.6*** LFSR @SotirisFtiakas
 - [x] ***No.7*** Shift Operator (<<) - *(Need to transfer from paper to LaTeX)* @GregB712
 - [ ] ***No.8*** @SotirisFtiakas
-- [x] ***No.9*** @GregB712
+- [x] ***No.9*** Entropy - *(Need to transfer from paper to LaTeX)* @GregB712
 - [ ] ***No.10*** 
 - [ ] ***No.11*** 
 - [ ] ***No.12*** 
