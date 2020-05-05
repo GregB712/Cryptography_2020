@@ -24,7 +24,7 @@
 - [ ] ***No.20***
 - [ ] ***No.21***
 - [x] ***No.22*** 4n+3 - *(Need to transfer from paper to LaTeX)* @GregB712
-- [x] ***No.23*** Sum of consecutive numbers not equals 2^x - *(Need to transfer from paper to LaTeX)* @GregB712
+- [ ] ***No.23*** Sum of consecutive numbers not equals 2^x - *(Need to transfer from paper to LaTeX)* @GregB712
 - [ ] ***No.24***
 - [ ] ***No.25***
 - [ ] ***No.26***
