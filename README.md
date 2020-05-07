@@ -11,7 +11,7 @@
 - [x] ***No.7*** Shift Operator (<<) - *(Need to transfer from paper to LaTeX)* @GregB712
 - [x] ***No.8*** GCD Greatest Common Divisor - *(Need to transfer from paper to LaTeX)* @SotirisFtiakas
 - [x] ***No.9*** Entropy - *(Need to transfer from paper to LaTeX)* @GregB712
-- [ ] ***No.10*** 
+- [x] ***No.10*** Textbook RSA @SotirisFtiakas
 - [ ] ***No.11*** 
 - [ ] ***No.12*** 
 - [x] ***No.13*** Chinese Theorem - *(Need to transfer from paper to LaTeX)* @GregB712
