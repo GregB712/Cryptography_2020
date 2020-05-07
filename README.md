@@ -8,9 +8,9 @@
 - [x] ***No.4*** K,E,Y - *(Need to transfer from paper to LaTeX)* @SotirisFtiakas
 - [x] ***No.5*** Dictionary Attack @GregB712
 - [x] ***No.6*** LFSR @SotirisFtiakas
-- [x] ***No.7*** Shift Operator (<<) - *(Need to transfer from paper to LaTeX)* @GregB712
+- [x] ***No.7*** Shift Operator (<<) - @GregB712
 - [x] ***No.8*** GCD Greatest Common Divisor - *(Need to transfer from paper to LaTeX)* @SotirisFtiakas
-- [x] ***No.9*** Entropy - *(Need to transfer from paper to LaTeX)* @GregB712
+- [x] ***No.9*** Entropy - @GregB712
 - [x] ***No.10*** Textbook RSA @SotirisFtiakas
 - [ ] ***No.11*** 
 - [ ] ***No.12*** 
@@ -23,7 +23,7 @@
 - [ ] ***No.19***
 - [ ] ***No.20***
 - [ ] ***No.21***
-- [x] ***No.22*** 4n+3 - *(Need to transfer from paper to LaTeX)* @GregB712
+- [x] ***No.22*** 4n+3 - @GregB712
 - [ ] ***No.23*** Sum of consecutive numbers not equals 2^x - *(Need to transfer from paper to LaTeX)* @GregB712
 - [ ] ***No.24***
 - [ ] ***No.25***
