@@ -31,5 +31,5 @@
 - [ ] ***No.27***
 - [ ] ***No.28***
 - [ ] ***No.29***
-- [ ] ***No.30***
-- [ ] ***No.31***
+- [ ] ***No.30*** Korselt - Carmichael @GregB712
+- [ ] ***No.31*** Carmichael @GregB712
