@@ -12,7 +12,7 @@
 - [x] ***No.8*** GCD Greatest Common Divisor - *(Need to transfer from paper to LaTeX)* @SotirisFtiakas
 - [x] ***No.9*** Entropy - @GregB712
 - [x] ***No.10*** Textbook RSA @SotirisFtiakas
-- [ ] ***No.11*** 
+- [ ] ***No.11*** Wiener RSA - *(Not finished yet - **TODO NEXT**)* @SotirisFtiakas
 - [ ] ***No.12*** 
 - [x] ***No.13*** Chinese Theorem - @GregB712
 - [ ] ***No.14*** 
