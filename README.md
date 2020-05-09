@@ -10,18 +10,18 @@
 | ✔️ | Theory | ***No.4***  | K,E,Y - *(Need to transfer from paper to LaTeX)* | Both
 | ✔️ | Code   | ***No.5***  | Dictionary Attack | @GregB712
 | ✔️ | Code   | ***No.6***  | LFSR | @SotirisFtiakas
-| ✔️ |        | ***No.7***  | Shift Operator (<<) | @GregB712
+| ✔️ | Maths  | ***No.7***  | Shift Operator (<<) | @GregB712
 | ✔️ | Theory | ***No.8***  | GCD Greatest Common Divisor - *(Need to transfer from paper to LaTeX)* | @SotirisFtiakas
-| ✔️ |        | ***No.9***  | Entropy | @GregB712
+| ✔️ | Maths  | ***No.9***  | Entropy | @GregB712
 | ✔️ | Code   | ***No.10*** | Textbook RSA | @SotirisFtiakas
 | ✔️ | Code   | ***No.11*** | Wiener RSA | @SotirisFtiakas
 | ✖️ | ???    | ***No.12*** |
-| ✔️ |        | ***No.13*** | Chinese Theorem | @GregB712
+| ✔️ | Theory | ***No.13*** | Chinese Theorem | @GregB712
 | ✖️ | ???    | ***No.14*** |  
 | ✔️ | Code   | ***No.15*** | Rabin TDF | @Sotiris Ftiakas
 | ✖️ | ???    | ***No.16*** | 
 | ✖️ | ???    | ***No.17*** | 
-| ✔️ | Code   | ***No.18*** | secure.zip | @GregB712
+| ✔️ | CTF    | ***No.18*** | secure.zip | @GregB712
 | ✖️ | ???    | ***No.19*** | 
 | ✖️ | ???    | ***No.20*** | 
 | ✖️ | ???    | ***No.21*** | 
@@ -33,7 +33,7 @@
 | ✖️ | ???    | ***No.27*** | 
 | ✖️ | ???    | ***No.28*** | 
 | ✖️ | ???    | ***No.29*** | 
-| ✖️ | Maths  | ***No.30*** | Korselt - Carmichael | @GregB712
+| ✔️ | Maths  | ***No.30*** | Korselt - Carmichael | @GregB712
 | ✖️ | Maths  | ***No.31*** | Carmichael | @GregB712
 
 
@@ -68,5 +68,5 @@
 - [ ] ***No.27***
 - [ ] ***No.28***
 - [ ] ***No.29***
-- [ ] ***No.30*** Korselt - Carmichael @GregB712
+- [x] ***No.30*** Korselt - Carmichael @GregB712
 - [ ] ***No.31*** Carmichael @GregB712
