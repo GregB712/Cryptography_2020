@@ -16,7 +16,7 @@
 | ✔️ | Code   | ***No.10*** | Textbook RSA | @SotirisFtiakas
 | ✔️ | Code   | ***No.11*** | Wiener RSA | @SotirisFtiakas
 | ✖️ | ???    | ***No.12*** |
-| ✔️ | Theory | ***No.13*** | Chinese Theorem | @GregB712
+| ✔️ | Maths  | ***No.13*** | Chinese Theorem | @GregB712
 | ✖️ | ???    | ***No.14*** |  
 | ✔️ | Code   | ***No.15*** | Rabin TDF | @Sotiris Ftiakas
 | ✖️ | ???    | ***No.16*** | 
