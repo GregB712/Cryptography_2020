@@ -15,16 +15,16 @@
 | ✔️ | Maths  | ***No.9***  | Entropy | @GregB712
 | ✔️ | Code   | ***No.10*** | Textbook RSA | @SotirisFtiakas
 | ✔️ | Code   | ***No.11*** | Wiener RSA | @SotirisFtiakas
-| ✖️ | ???    | ***No.12*** |
+| ✖️ | ???    | ***No.12*** | Prime Numbers | @SotirisFtiakas
 | ✔️ | Maths  | ***No.13*** | Chinese Theorem | @GregB712
-| ✖️ | ???    | ***No.14*** |  
+| ✖️ | ???    | ***No.14*** | Miller-Rabin Test | @SotirisFtiakas
 | ✔️ | Code   | ***No.15*** | Rabin TDF | @Sotiris Ftiakas
-| ✖️ | ???    | ***No.16*** | 
-| ✖️ | ???    | ***No.17*** | 
+| ✖️ | ???    | ***No.16*** | GPG, PGP, Send Message | Both
+| ✖️ | ???    | ***No.17*** | TDF: CRT-RSA | @SotirisFtiakas
 | ✔️ | CTF    | ***No.18*** | secure.zip | @GregB712
 | ✖️ | ???    | ***No.19*** | 
 | ✖️ | ???    | ***No.20*** | 
-| ✖️ | ???    | ***No.21*** | 
+| ✖️ | ???    | ***No.21*** | Bibliography | @SotirisFtiakas
 | ✔️ | Maths  | ***No.22*** | 4n+3 | @GregB712
 | ✖️ | Maths  | ***No.23*** | Sum of consecutive numbers not equals 2^x | @GregB712
 | ✖️ | ???    | ***No.24*** | 
