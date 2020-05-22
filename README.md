@@ -1,4 +1,4 @@
-# Cryptography Foundations 2020, 6th Semester of Computer Science Dept. @ Aristotle University of Thessaloniki
+﻿# Cryptography Foundations 2020, 6th Semester of Computer Science Dept. @ Aristotle University of Thessaloniki
 
 ### EXCERCISES:
 
@@ -28,45 +28,10 @@
 | ✔️ | Maths  | ***No.22*** | ( 3.1 ) 4n+3 | @GregB712
 | ✖️ | Maths  | ***No.23*** | ( 3.4 ) Sum of consecutive numbers not equals 2^x | @GregB712 |
 | ✔️ | Maths  | ***No.24*** | ( 3.7 ) n<sup>5</sup> + 1 divides n<sup>10</sup> - 1 , ∀ n ∊ N *(Need to transfer from paper to LaTeX)* | @SotirisFtiakas
-| ✖️ | ???    | ***No.25*** | ( 3.19 ) Σ<sub>(p<=x)</sub> 1/p >= ln(ln(x)) - ln2 , x >= 2 |
+| ✔️ | Maths  | ***No.25*** | ( 3.19 ) Σ<sub>(p<=x)</sub> 1/p >= ln(ln(x)) - ln2 , x >= 2 | @SotirisFtiakas
 | ✔️ | Maths  | ***No.26*** | ( 3.23 ) If n devides a*b and gcd(n,a) = 1, then n devides b *(Need to transfer from paper to LaTeX)* | @SotirisFtiakas
 | ✖️ | ???    | ***No.27*** | ( 3.26 ) If gcd(a,b) = 1 then ... |
 | ✖️ | ???    | ***No.28*** | ( 3.40 ) Compute φ(1134) and φ(2457) |
 | ✖️ | ???    | ***No.29*** | ( 3.42 ) Compute π(x), x/ln(x) and Li(x), 2 < x < 1000 |
 | ✔️ | Maths  | ***No.30*** | ( 3.70 ) Korselt - Carmichael | @GregB712
 | ✖️ | Maths  | ***No.31*** | ( 3.74 ) Carmichael | @GregB712
-
-
-
-
-- [x] ***No.1*** RC4 & OTP - *(Need to review ii) at the end to check if correct)* @SotirisFtiakas
-- [x] ***No.2*** Avalanche Effect @SotirisFtiakas
-- [ ] ***No.3*** Vigenere - *(Description Only - How to)* @SotirisFtiakas @GregB712
-- [x] ***No.4*** K,E,Y - *(Need to transfer from paper to LaTeX)* @SotirisFtiakas
-- [x] ***No.5*** Dictionary Attack @GregB712
-- [x] ***No.6*** LFSR @SotirisFtiakas
-- [x] ***No.7*** Shift Operator (<<) - @GregB712
-- [x] ***No.8*** GCD Greatest Common Divisor - *(Need to transfer from paper to LaTeX)* @SotirisFtiakas
-- [x] ***No.9*** Entropy - @GregB712
-- [x] ***No.10*** Textbook RSA @SotirisFtiakas
-- [x] ***No.11*** Wiener RSA @SotirisFtiakas
-- [ ] ***No.12*** 
-- [x] ***No.13*** Chinese Theorem - @GregB712
-- [ ] ***No.14*** 
-- [x] ***No.15*** Rabin TDF @Sotiris Ftiakas
-- [ ] ***No.16***
-- [ ] ***No.17***
-- [x] ***No.18*** secure.zip @GregB712
-- [ ] ***No.19***
-- [ ] ***No.20***
-- [ ] ***No.21***
-- [x] ***No.22*** 4n+3 - @GregB712
-- [ ] ***No.23*** Sum of consecutive numbers not equals 2^x - @GregB712
-- [ ] ***No.24***
-- [ ] ***No.25***
-- [ ] ***No.26***
-- [ ] ***No.27***
-- [ ] ***No.28***
-- [ ] ***No.29***
-- [x] ***No.30*** Korselt - Carmichael @GregB712
-- [ ] ***No.31*** Carmichael @GregB712
