@@ -17,14 +17,14 @@
 | ✔️ | Code   | ***No.11*** | Wiener RSA | @SotirisFtiakas
 | ✖️ | ???    | ***No.12*** | Prime Numbers | @SotirisFtiakas
 | ✔️ | Maths  | ***No.13*** | Chinese Theorem | @GregB712
-| ✖️ | ???    | ***No.14*** | Miller-Rabin Test | @SotirisFtiakas
+| ✖️ | ???    | ***No.14*** | Miller-Rabin Test |
 | ✔️ | Code   | ***No.15*** | Rabin TDF | @Sotiris Ftiakas
 | ✖️ | ???    | ***No.16*** | GPG, PGP, Send Message | Both
-| ✖️ | ???    | ***No.17*** | TDF: CRT-RSA | @SotirisFtiakas
+| ✖️ | ???    | ***No.17*** | TDF: CRT-RSA | 
 | ✔️ | CTF    | ***No.18*** | secure.zip | @GregB712
 | ✖️ | ???    | ***No.19*** | 
 | ✖️ | ???    | ***No.20*** | 
-| ✖️ | ???    | ***No.21*** | Bibliography | @SotirisFtiakas
+| ✔️ | Theory | ***No.21*** | Bibliography | @SotirisFtiakas
 | ✔️ | Maths  | ***No.22*** | ( 3.1 ) 4n+3 | @GregB712
 | ✖️ | Maths  | ***No.23*** | ( 3.4 ) Sum of consecutive numbers not equals 2^x | @GregB712 |
 | ✔️ | Maths  | ***No.24*** | ( 3.7 ) n<sup>5</sup> + 1 divides n<sup>10</sup> - 1 , ∀ n ∊ N *(Need to transfer from paper to LaTeX)* | @SotirisFtiakas
