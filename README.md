@@ -15,12 +15,12 @@
 | ✔️ | Maths  | ***No.9***  | Entropy | @GregB712
 | ✔️ | Code   | ***No.10*** | Textbook RSA | @SotirisFtiakas
 | ✔️ | Code   | ***No.11*** | Wiener RSA | @SotirisFtiakas
-| ✖️ | ???    | ***No.12*** | Prime Numbers | @SotirisFtiakas
+| ✖️ | ???    | ***No.12*** | Prime Numbers | 
 | ✔️ | Maths  | ***No.13*** | Chinese Theorem | @GregB712
-| ✖️ | ???    | ***No.14*** | Miller-Rabin Test |
-| ✔️ | Code   | ***No.15*** | Rabin TDF | @Sotiris Ftiakas
+| ✖️ | ???    | ***No.14*** | Miller-Rabin Test | @SotirisFtiakas
+| ✔️ | Code   | ***No.15*** | Rabin TDF | @SotirisFtiakas
 | ✖️ | ???    | ***No.16*** | GPG, PGP, Send Message | Both
-| ✖️ | ???    | ***No.17*** | TDF: CRT-RSA | 
+| ✖️ | ???    | ***No.17*** | TDF: CRT-RSA | @SotirisFtiakas
 | ✔️ | CTF    | ***No.18*** | secure.zip | @GregB712
 | ✖️ | ???    | ***No.19*** | 
 | ✖️ | ???    | ***No.20*** | 
