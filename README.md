@@ -15,7 +15,7 @@
 | ✔️ | Maths  | ***No.9***  | Entropy | @GregB712
 | ✔️ | Code   | ***No.10*** | Textbook RSA | @SotirisFtiakas
 | ✔️ | Code   | ***No.11*** | Wiener RSA | @SotirisFtiakas
-| ✖️ | ???    | ***No.12*** | Prime Numbers | 
+| ✔️ | Code   | ***No.12*** | Prime Numbers - *(can't compute 2048-bit safe prime)* | @SotirisFtiakas
 | ✔️ | Maths  | ***No.13*** | Chinese Theorem | @GregB712
 | ✖️ | ???    | ***No.14*** | Miller-Rabin Test | @SotirisFtiakas
 | ✔️ | Code   | ***No.15*** | Rabin TDF | @SotirisFtiakas
