@@ -30,7 +30,7 @@
 | ✔️ | Maths  | ***No.24*** | ( 3.7 ) n<sup>5</sup> + 1 divides n<sup>10</sup> - 1 , ∀ n ∊ N *(Need to transfer from paper to LaTeX)* | @SotirisFtiakas
 | ✔️ | Code   | ***No.25*** | ( 3.19 ) Σ<sub>(p<=x)</sub> 1/p >= ln(ln(x)) - ln2 , x >= 2 | @SotirisFtiakas
 | ✔️ | Maths  | ***No.26*** | ( 3.23 ) If n devides a*b and gcd(n,a) = 1, then n devides b *(Need to transfer from paper to LaTeX)* | @SotirisFtiakas
-| ✔️ | ???    | ***No.27*** | ( 3.26 ) If gcd(a,b) = 1 then ... *(Need to transfer from paper to LaTeX)* | @GregB712
+| ✔️ | Maths  | ***No.27*** | ( 3.26 ) If gcd(a,b) = 1 then ... *(Need to transfer from paper to LaTeX)* | @GregB712
 | ✔️ | Code   | ***No.28*** | ( 3.40 ) Compute φ(1134) and φ(2457) | @SotirisFtiakas
 | ✔️ | Code   | ***No.29*** | ( 3.42 ) Compute π(x), x/ln(x) and Li(x), 2 < x < 1000 | @SotirisFtiakas
 | ✔️ | Maths  | ***No.30*** | ( 3.70 ) Korselt - Carmichael | @GregB712
