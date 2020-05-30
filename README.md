@@ -20,7 +20,7 @@
 | ✔️ | C,T    | ***No.14*** | Miller-Rabin Test | @SotirisFtiakas
 | ✔️ | Code   | ***No.15*** | Rabin TDF | @SotirisFtiakas
 | ✖️ | ???    | ***No.16*** | GPG, PGP, Send Message | Both
-| ✖️ | ???    | ***No.17*** | TDF: CRT-RSA | @SotirisFtiakas
+| ✔️ | Code   | ***No.17*** | TDF: CRT-RSA | @SotirisFtiakas
 | ✔️ | CTF    | ***No.18*** | secure.zip | @GregB712
 | ✖️ | ???    | ***No.19*** | 
 | ✖️ | ???    | ***No.20*** | 
