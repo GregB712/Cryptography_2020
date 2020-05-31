@@ -6,7 +6,7 @@
 |------|------|-----|---------|--------------|
 | ✔️ | Code   | ***No.1***  | RC4 & OTP - *(Need to review ii) at the end to check if correct)* | @SotirisFtiakas 
 | ✔️ | Code   | ***No.2***  | Avalanche Effect | @SotirisFtiakas
-| ✖️ | Code   | ***No.3***  | Vigenere - *(Description Only - How to)* | Both
+| ✔️ | Code   | ***No.3***  | Vigenere | Both
 | ✔️ | Theory | ***No.4***  | K,E,Y - *(Need to transfer from paper to LaTeX)* | Both
 | ✔️ | Code   | ***No.5***  | Dictionary Attack | @GregB712
 | ✔️ | Code   | ***No.6***  | LFSR | @SotirisFtiakas
