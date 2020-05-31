@@ -34,4 +34,4 @@
 | ✔️ | Code   | ***No.28*** | ( 3.40 ) Compute φ(1134) and φ(2457) | @SotirisFtiakas
 | ✔️ | Code   | ***No.29*** | ( 3.42 ) Compute π(x), x/ln(x) and Li(x), 2 < x < 1000 | @SotirisFtiakas
 | ✔️ | Maths  | ***No.30*** | ( 3.70 ) Korselt - Carmichael | @GregB712
-| ✖️ | Maths  | ***No.31*** | ( 3.74 ) Carmichael | @GregB712
+| ✔️ | C,M    | ***No.31*** | ( 3.74 ) Carmichael | @GregB712
