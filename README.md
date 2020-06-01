@@ -1,6 +1,6 @@
 ﻿# Cryptography Foundations 2020, 6th Semester of Computer Science Dept. @ Aristotle University of Thessaloniki
 
-### EXCERCISES:
+### EXERCISES:
 
 | Done | Type | Νο. | Details | Contributors |
 |------|------|-----|---------|--------------|
@@ -19,7 +19,7 @@
 | ✔️ | Maths  | ***No.13*** | Chinese Theorem | @GregB712
 | ✔️ | C,T    | ***No.14*** | Miller-Rabin Test | @SotirisFtiakas
 | ✔️ | Code   | ***No.15*** | Rabin TDF | @SotirisFtiakas
-| ✖️ | ???    | ***No.16*** | GPG, PGP, Send Message | Both
+| ✔️ | Email  | ***No.16*** | GPG, PGP, Send Message | Both
 | ✔️ | Code   | ***No.17*** | TDF: CRT-RSA | @SotirisFtiakas
 | ✔️ | CTF    | ***No.18*** | secure.zip | @GregB712
 | ✖️ | ???    | ***No.19*** | 
