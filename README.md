@@ -22,8 +22,8 @@
 | ✔️ | Email  | ***No.16*** | GPG, PGP, Send Message | Both
 | ✔️ | Code   | ***No.17*** | TDF: CRT-RSA | @SotirisFtiakas
 | ✔️ | CTF    | ***No.18*** | secure.zip | @GregB712
-| ✖️ | ???    | ***No.19*** | 
-| ✖️ | ???    | ***No.20*** | 
+| ✔️ | Code   | ***No.19*** | OpenSSL | Both
+| ✖️ | Code   | ***No.20*** | dev/random | Both
 | ✔️ | Theory | ***No.21*** | Bibliography | @SotirisFtiakas
 | ✔️ | Maths  | ***No.22*** | ( 3.1 ) 4n+3 | @GregB712
 | ✔️ | Maths  | ***No.23*** | ( 3.4 ) Sum of consecutive numbers not equals 2^x | @GregB712 |
