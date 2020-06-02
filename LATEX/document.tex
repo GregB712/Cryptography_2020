@@ -317,29 +317,29 @@
 			Συνεπώς θα έχουμε:	
 			\begin{gather*} 
 			c_0 = m_0 \oplus m_6 \oplus m_{10} \quad (1) \\
-			c_2 = m_2 + m_8 + m_{12} \Rightarrow m_8 = m_2 + m_{12} + c_2 \quad (4) \\
-			c_4 = m_4 + m_10 + m_14 \Rightarrow m_{10} = m_4 + m_{14} + c_4 \quad (2) \\
-			c_6 = m_6 + m_{12} + m_0 \quad (5) \\
-			c_8 = m_8 + m_{14} + m_2 \\
-			c_{10} = m_{10} + m_0 + m_4 \\
-			c_{12} = m_{12} + m_2 + m_6 \\
-			c_{14} = m_{14} + m_4 + m_8 \Rightarrow m_{14} + m_4 = m_8 + c_{14} \quad (3) \\
+			c_2 = m_2 \oplus m_8 \oplus m_{12} \Rightarrow m_8 = m_2 \oplus m_{12} \oplus c_2 \quad (4) \\
+			c_4 = m_4 \oplus m_{10} \oplus m_{14} \Rightarrow m_{10} = m_4 \oplus m_{14} \oplus c_4 \quad (2) \\
+			c_6 = m_6 \oplus m_{12} \oplus m_0 \quad (5) \\
+			c_8 = m_8 \oplus m_{14} \oplus m_2 \\
+			c_{10} = m_{10} \oplus m_0 \oplus m_4 \\
+			c_{12} = m_{12} \oplus m_2 \oplus m_6 \\
+			c_{14} = m_{14} \oplus m_4 \oplus m_8 \Rightarrow m_{14} \oplus m_4 = m_8 \oplus c_{14} \quad (3) \\
 			\end{gather*}
 			
 			Ξεκινώντας από την (1) έχουμε διαδοχικά:
 			\begin{gather*} 
 			c_0 = m_0 \oplus m_6 \oplus m_{10} \\ 
-			(2)\Rightarrow c_0 = m_0 + m_6 + m_4 + m_{14} + c_4 \\
-			(3)\Rightarrow c_0 + c_4 = m_0 + m_6 + m_8 + c_{14} \\
-			(4)\Rightarrow c_0 + c_4 + c_{14} = m_0 + m_6 + m_2 + m_{12} + c_2 \\
-			(5)\Rightarrow c_0 + c_4 + c_{14} + c_2 = m_2 + c_6 \\
-			\Rightarrow c_0 + c_4 + c_{14} + c_2 + c_6 = m_2 \quad (6)
+			(2)\Rightarrow c_0 = m_0 \oplus m_6 \oplus m_4 \oplus m_{14} \oplus c_4 \\
+			(3)\Rightarrow c_0 \oplus c_4 = m_0 \oplus m_6 \oplus m_8 \oplus c_{14} \\
+			(4)\Rightarrow c_0 \oplus c_4 \oplus c_{14} = m_0 \oplus m_6 \oplus m_2 \oplus m_{12} \oplus c_2 \\
+			(5)\Rightarrow c_0 \oplus c_4 \oplus c_{14} \oplus c_2 = m_2 \oplus c_6 \\
+			\Rightarrow c_0 \oplus c_4 \oplus c_{14} \oplus c_2 \oplus c_6 = m_2 \quad (6)
 			\end{gather*}
 			
 			Κάνουμε κύλιση και στα δύο μέρη του (6) προς τα δεξιά και έχουμε:
-			$$m_0 = c_{14} + c_2 + c_{12} + c_0 + c_4$$
+			$$m_0 = c_{14} \oplus c_2 \oplus c_{12} \oplus c_0 \oplus c_4$$
 			
-			και άρα τελικά έχουμε: $$m_0 = c_0 + c_2 + c_4 + c_{12} + c_{14}$$
+			και άρα τελικά έχουμε: $$m_0 = c_0 \oplus c_2 \oplus c_4 \oplus c_{12} \oplus c_{14}$$
 	}}
 	Κώδικας σε \lt{python}
 	{\lt{
@@ -512,6 +512,12 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 16}
 	\section*{{\color{maroon}Θέμα 16}}
+	
+	{\lt{
+		Μπάρμπας Γρηγόριος: $$b641ed06419f8ff4a6447cc9fb9d2295$$
+		
+		Φτιάκας Σωτήριος: $$add_your_hash$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 17}
 	\section*{{\color{maroon}Θέμα 17}}
