@@ -272,37 +272,108 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 1}
 	\section*{{\color{maroon}Θέμα 1}}
+	\section*{\lt{RC4 \& OTP}}
+	Κώδικας με σχόλια στα αρχεία:
+	{\lt{
+			$$No1\_i\_RC4.ipynb$$
+			$$No1\_ii\_OTP.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 2}
 	\section*{{\color{maroon}Θέμα 2}}
+	\section*{\lt{Avalanche Effect}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No2\_Avalanche\_Effect.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 3}
 	\section*{{\color{maroon}Θέμα 3}}
-	
 	\section*{\lt{Vigenere}}
+	Κώδικας με σχόλια στο αρχείο:
 	{\lt{
 		$$No3\_Vigenere.ipynb$$
 	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 4}
 	\section*{{\color{maroon}Θέμα 4}}
+	\section*{\lt{K,Y,E}}
+	{\lt{
+			Ο αριθμός κάθε γράμματος που βρίσκεται στα αριστερά προστίθεται στον αντίστοιχο αριθμό του κλειδιού, το αποτέλεσμα ανάγεται σε mod 26 και αντικαθίσταται από το γράμμα του πίνακα.\\
+			Για παράδειγμα, έστω ότι το πρώτο γράμμα είναι το x. Προσθέτοντας με πιθανό κλειδί Κ = 11, έχουμε x+11. Αφού είναι 26 τα γράμματα της αγγλικής αλφαβήτας, κάνουμε x+11 mod 26. Αυτό όπως βλέπουμε μας δίνει το Α σαν κρυπτογραφημένο μήνυμα, το οποίο ισούται με 1. Επομένως x+11 mod 26 = 1. Η λύση λοιπόν για x ανάμεσα στο 1 και το 26 είναι x = 16, με 16ο γράμμα της αλφαβήτας να είναι το P. Για πιθανό κλειδί E = 5, το x = 22, άρα το γράμμα είναι το V. Για πιθανό κλειδί το Y = 25, το x = 2, άρα το γράμμα είναι το B. Παρόμοια συνεχίζουμε για κάθε κρυπτογραφημένο γράμμα.\\
+			Μετά από παρατήρηση, το τελικό αποκρυπτογραφημένο μήνυμα είναι το PEACE BEGINS WITH A SMILE.
+			\begin{center}
+				\begin{tabular}{||c c c c||} 
+					\hline
+					 & K = 11 & E = 5 & Y = 25  \\ [0.5ex] 
+					\hline\hline
+					 A = 1 & \textbf{P}& V& B \\ 
+					\hline
+					 J = 10& Y&  \textbf{E}& K  \\
+					\hline
+					 Z = 0&O & U &  \textbf{A} \\
+					\hline
+					B = 2& Q& W &  \textbf{C} \\
+					\hline
+					P = 16& \textbf{E}& K &  Q \\  
+					\hline
+					 M = 13&\textbf{B} & H &  N\\  
+					\hline
+					D = 4& S& Y &  \textbf{E} \\  
+					\hline
+					 L = 12&A & \textbf{G} & M \\ 
+					\hline
+					H = 8& W& C &  \textbf{I}\\  
+					\hline
+					 Y = 25&\textbf{N} & T &  Z\\ 
+					\hline
+					 D = 4& \textbf{S}& Y & E \\ 
+					\hline
+					B = 2&Q &  \textbf{W}& C \\ 
+					\hline
+				 	T = 20& \textbf{I}& O & U  \\
+					\hline
+					S = 19 &H & N & \textbf{T}  \\
+					\hline
+					M = 13&B &  \textbf{H}&  N \\
+					\hline
+					F = 6& U& \textbf{A} &  G \\
+					\hline
+					D = 4& \textbf{S}& Y &  E \\
+					\hline
+					X = 24&\textbf{M} & S & Y  \\
+					\hline
+					T = 20& \textbf{I}& U &  U \\
+					\hline
+					Q = 17& F& \textbf{L} &  R \\
+					\hline
+					J = 10 & Y& \textbf{E} &  K \\
+					\hline
+					
+				\end{tabular}
+			\end{center}		
+			
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 5}
 	\section*{{\color{maroon}Θέμα 5}}
-	
 	\section*{\lt{Dictionary Attack}}
+	Κώδικας με σχόλια στο αρχείο:
 	{\lt{
 			$$No5\_Dictionary Attack.ipynb$$
 	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 6}
 	\section*{{\color{maroon}Θέμα 6}}
+	\section*{\lt{LSFR}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No6\_LSFR.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 7}
 	\section*{{\color{maroon}Θέμα 7}}
-	
 	\section*{\lt{Shift Operator with XOR}}
-	
 	{\lt{
 			m: 16-bits
 			$$c=m\oplus(m<<6)\oplus(m<<10)$$
@@ -345,33 +416,64 @@
 			
 			και άρα τελικά έχουμε: $$m_0 = c_0 \oplus c_2 \oplus c_4 \oplus c_{12} \oplus c_{14}$$
 	}}
-	Κώδικας σε \lt{python}
+	Κώδικας με σχόλια στο αρχείο:
 	{\lt{
 			$$No7\_Shift\_Operator.ipynb$$
 	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 8}
 	\section*{{\color{maroon}Θέμα 8}}
-	
+	\section*{\lt{GCD Greatest Common Divisor}}
+	{\lt{
+			\begin{enumerate}[label=(\roman*)]
+				\item Διαιρώ το 126048 με το 5050 και έχω 126048 = 5050 $\cdot$ 24 + 4848. Κατόπιν διαιρώ τον διαιρέτη, δηλαδή το 5050 με το υπόλοιπο, δηλαδή με το 4848 και έχουμε 5050 = 4848 $\cdot$ 1 + 202. Τέλος, συνεχίζοντας όπως προηγουμένως έχω 4848 = 24 $\cdot$ 202 + 0. Το τελευταίο μη μηδενικό υπόλοιπο, δηλαδή το 202 είναι ο ΜΚΔ των αριθμών.
+				
+				Για τους αριθμούς Bezout έχουμε: \\
+				202 = 5050 - 4848 = 5050 - (126048 - 24 $\cdot$ 5050) = \textbf{-1} $\cdot$ 126048 + \textbf{25} $\cdot$ 5050 \\
+				Άρα, οι αριθμοί Bezout είναι οι: \textbf{-1}, \textbf{25}\\
+				$Z_{1001} , x=809$
+				\item \begin{gather*} 
+				1001 = 809 \cdot 1 + 192\\
+				809 = 192 \cdot 4 + 41\\
+				192 = 41 \cdot 4 + 28\\
+				41 = 28 \cdot 1 + 13\\
+				28 = 13 \cdot 2 + 2\\
+				13 = 2 \cdot 6 + 1\\
+				\end{gather*}
+				\begin{gather*}
+				1 = 13 - 2 \cdot 6 = \\
+				13 - (28 - 13 \cdot 2) \cdot 6 =\\
+				13 \cdot 13 - 28 \cdot 6 =\\
+				13 \cdot (41 - 281) - 28 \cdot 6=\\
+				13 \cdot 41 - 28 \cdot 13 - 28 \cdot 6=\\
+				13 \cdot 41 + 28 \cdot  (-19)=\\
+				13 \cdot 41 + (192 - 41 \cdot 4) \cdot (-19)=\\
+				13 \cdot 41 + 192 \cdot (-19) + 41 \cdot 76=\\
+				\end{gather*}
+				\begin{gather*}
+				89 \cdot 41 + 192 \cdot (-19) =\\
+				89 \cdot (809 - 192 \cdot 4) + 192 \cdot (-19)=\\
+				89 \cdot 809 - 192 \cdot 356 + 192 \cdot (-19)=\\
+				89 \cdot 809 + 192 \cdot (-375)=\\
+				89 \cdot 809 + (1001 - 809 \cdot 1) \cdot (-375) =\\
+				89 \cdot 809 + 1001 \cdot (-375) + 809 \cdot (375)=\\
+				464 \cdot 809 + 1001 \cdot (-375)\\\\
+				1 \equiv 464 \cdot 809 \mod 1001\\
+				\end{gather*}
+				
+				Άρα το αντίστροφο του 809 στο $Ζ_{1001}$ είναι το 464.
+				
+				\item Ξέρουμε από το μικρό θεώρημα του Fermat ότι:
+				$$n^{p-1} \equiv 1 \mod p$$
+				δηλαδή $2^{100} \equiv 1 \mod 101$ \\
+				άρα $2^{100} \equiv 1$
+			\end{enumerate}			
+	}}
+
 	\addcontentsline{toc}{section}{Θέμα 9}
 	\section*{{\color{maroon}Θέμα 9}}
-	
 	\section*{\lt{Entropy}}
 	{\lt{
-		\begin{table}[h!]
-			\centering
-			\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
-				\hline
-				\textbf{Υ/X} & \textbf{0} & \textbf{1} & \textbf{2}\\
-				\hline
-				\textbf{0} & 1/7 & 1/7 & 1/7 \\
-				\hline
-				\textbf{1} & 0 & 1/7 & 1/7 \\
-				\hline
-				\textbf{2} & 2/7 & 0 & 0 \\
-				\hline
-			\end{tabular}
-		\end{table}
 		Αρχικά υπολογίζουμε
 		\begin{gather*} 
 			p_x(X=0) = \sum_{y}p_{X,Y}(0,y)=\frac{3}{7} \\
@@ -454,23 +556,37 @@
 		\simeq 0.5916727785823274
 	\end{gather*}
 	
-	Κώδικας σε \lt{python}
+	Κώδικας με σχόλια στο αρχείο:
 	{\lt{
 			$$No9\_Entropy.ipynb$$
 	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 10}
 	\section*{{\color{maroon}Θέμα 10}}
+	\section*{\lt{Textbook RSA}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No10\_Textbook\_RSA.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 11}
 	\section*{{\color{maroon}Θέμα 11}}
+	\section*{\lt{Wiener RSA}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No11\_Wiener\_RSA.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 12}
 	\section*{{\color{maroon}Θέμα 12}}
+	\section*{\lt{Prime Numbers}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No12\_Prime\_Numbers.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 13}
 	\section*{{\color{maroon}Θέμα 13}}
-	
 	\section*{\lt{Chinese Theorem}}
 	{\lt{
 			Έχουμε το σύστημα των γραμμικών ισοδυναμιών
@@ -503,20 +619,29 @@
 			Για $k=0$ έχουμε λύση το $x=621$
 	}}
 
-	Κώδικας σε \lt{python}
+	Κώδικας με σχόλια στο αρχείο:
 	{\lt{
 			$$No13\_ChineseTheorem.ipynb$$
 	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 14}
 	\section*{{\color{maroon}Θέμα 14}}
+	\section*{\lt{Miller-Rabin Test}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No12\_Miller-Rabin\_Test.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 15}
 	\section*{{\color{maroon}Θέμα 15}}
+		\section*{\lt{Rabin TDF}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No15\_Rabin\_TDF.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 16}
 	\section*{{\color{maroon}Θέμα 16}}
-	
 	\section*{\lt{GPG, PGP, Send Message}}
 	{\lt{
 		Μπάρμπας Γρηγόριος: $$b641ed06419f8ff4a6447cc9fb9d2295$$
@@ -526,10 +651,14 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 17}
 	\section*{{\color{maroon}Θέμα 17}}
-	
+		\section*{\lt{TDF: CRT-RSA}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No17\_TDF\_CRT-RSA.ipynb$$
+	}}
+
 	\addcontentsline{toc}{section}{Θέμα 18}
 	\section*{{\color{maroon}Θέμα 18}}
-	
 	\section*{\lt{secure.zip}}
 	{\lt{
 			$$9e94b15ed312fa42232fd87a55db0d39$$
@@ -537,16 +666,124 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 19}
 	\section*{{\color{maroon}Θέμα 19}}
+		\section*{\lt{OpenSSL}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No19\_OpenSSL.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 20}
 	\section*{{\color{maroon}Θέμα 20}}
+		\section*{\lt{/dev/random}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No12\_dev\_random\_entropy.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 21}
 	\section*{{\color{maroon}Θέμα 21}}
+		\section*{\lt{Bibliography}}
+	\begin{enumerate}
+		\item \textbf{Nα αναλύσετε πως η χρήση του ίδιου κλειδιού στον {\lt{OTP}} επιτρέπει να βρούμε μηνύματα που είναι γραμμένα σε κάποια φυσική γλώσσα.}\\
+		Το {\lt{OTP}} αποτελεί ένα {\lt{stream cipher}} ο οποίος αποτελεί μια {\lt{perfectly secure}} μέθοδο κρυπτογράφησης. Είναι πολύ εύκολος στην υλοποίησή του και είναι {\lt{perfectly secure}} εάν το μήκος του κλειδιού που χρησιμοποιείται είναι μεγαλύτερο ή ίσο του μήκους του μηνύματος που κρυπτογραφείται. Ωστόσο, απαιτεί επίσης το κλειδί να μην χρησιμοποιηθεί πάνω από μία φορά. Ας δούμε ένα παράδειγμα του πως μπορούμε να εξάγουμε πληροφορία από δύο κρυπτογραφημένα μηνύματα που έχουν κρυπτογραφηθεί χρησιμοποιώντας το ίδιο κλειδί.
+		Έστω ότι έχουμε τα εξής:
+		\begin{itemize}
+			\item {\lt{message1 = "Hello World"}}
+			\item {\lt{message2 = "the program"}}
+			\item {\lt{key = "supersecret"}}
+		\end{itemize}
+		Αν μετατρέψουμε κάθε μήνυμα σε hex strings, και τα κρυπτογραφήσουμε χρησιμοποιώντας το ίδιο κλειδί, θα πάρουμε τα εξής {\lt{cipher-texts}}:
+		\begin{itemize}
+			\item {\lt{cipher-text1: "3b101c091d53320c000910"}}
+			\item {\lt{cipher-text2: "071d154502010a04000419"}}
+		\end{itemize}
+		
+		Ακολουθούμε λοιπόν την εξής διαδικασία:
+		\begin{enumerate}
+			\item Μαντεύουμε μια λέξη που μπορεί να υπάρχει σε κάποιο από τα αρχικά μηνύματα.
+			\item Μετατρέπουμε τη λέξη σε {\lt{hex string}}.
+			\item Κάνουμε {\lt{XOR}} τα δύο {\lt{cipher-texts}}.
+			\item Κάνουμε {\lt{XOR}} το {\lt{hex string}} που δημιουργήσαμε στο βήμα 2 με το {\lt{hex string}} που δημιουργήσαμε στο βήμα 3.
+			\item Αν το αποτέλεσμα είναι λέξη φυσικής γλώσσας, τότε έχουμε καταφέρει να αποσπάσουμε πληροφορία και για τα δύο αρχικά μηνύματα.
+			\item  Αν δεν είναι λέξη φυσικής γλώσσας, τότε συνεχίζουμε να κάνουμε {\lt{XOR}}, μετακινόντας τη λέξη μας κάθε φορά ένα βήμα δεξιά.
+		\end{enumerate}
+	
+		\textbf{Το βήμα 1} φαίνεται δύσκολο, δηλαδή το να μαντέψουμε κάποια λέξη σε κάποιο από τα δύο κείμενα, αλλά αν σκεφτούμε έξυπνα, μπορούμε να βελτιώσουμε τις πιθανοτητές μας. Για παράδειγμα, η λέξη {\lt{"the"}} αποτελεί την πιο συχνά χρησιμοποιούμενη λέξη. Θα υποθέσουμε λοιπόν ότι υπάρχει σε ένα από τα μηνύματα.
+		
+		\textbf{Από βήμα 2}: Η λέξη {\lt{"the"}} μετατρέπεται ως {\lt{hex string}} σε "746865".
+		
+		\textbf{Από βήμα 3}: $cipher-text1 \quad XOR \quad cipher-text2 = "3c0d094c1f523808000d09"$
+		
+		\textbf{Από βήμα 4}:
+		
+		$$3c0d094c1f523808000d09$$
+		$$XOR \quad 746865$$
+		$$—————————————$$
+		$$48656c$$
+		Αν μετατρέψουμε το {\lt{“48656c”}} σε {\lt{ASCII}}, παίρνουμε το μήνυμα {\lt{"Hel"}}. Αυτό μας πηγαίνει στο \textbf{βήμα 5}. Επειδή μοιάζει με λέξη φυσική γλώσσας, μπορούμε να υποθέσουμε ότι το {\lt{"the"}} υπάρχει στην πρώτη θέση κάποιου μηνύματος. Αν δεν βρίσκαμε λέξη φυσικής γλώσσας, θα μετακινούσαμε σύμφωνα με το \textbf{βήμα 6}, το {\lt{"48656c"}} μια θέση δεξιά και θα δοκιμάζαμε ξανά.
+		
+		Από εκεί και πέρα, δοκιμάζοντας και "μαντέυοντας" λέξεις που αρχίζουν από {\lt{"Hel"}} όπως π.χ. {\lt{"Help"}}, {\lt{"Hello"}} κτλ, με την ίδια ακριβώς διαδικασία, μπορούμε να αποσπάσουμε και άλλη πληροφορία από τα δύο μηνύματα.
+		
+		\textbf{Συμπεραίνουμε} λοιπόν ότι η επαναχρησιμοποίηση του ίδιου κλειδιού στο {\lt{OTP}} κρύβει κινδύνους.\\
+		{\lt{ref}}:
+		{\lt{\href{http://travisdazell.blogspot.com/2012/11/many-time-pad-attack-crib-drag.html}{many-time-pad-attack-crib-drag}}}
+
+		\item \textbf{Να αναλύσετε πως δουλέυει το {\lt{RSA-OAEP}}}\\
+		Το {\lt{OAEP}} προέρχεται από την ονομασία {\lt{Optimal Asymmetric Encryption Padding}} και αποτελεί ένα σχήμα κρυπτογράφησης που χρησιμοποιεί {\lt{paddings}} και είναι βασισμένο στο {\lt{RSA}}. Ο τρόπος με τον οποίο λειτουργεί μπορεί να αναπαρασταθεί εύκολα με το παρακάτω σχεδιάγραμμα: \\
+		\includegraphics{bibliography.png}
+		
+		Αναλυτικότερα, έχουμε τα εξής:
+		\begin{itemize}
+			\item \textbf{{\lt{G}}}: μία {\lt{hash function}} με {\lt{output g bits}} 
+			\item \textbf{{\lt{H}}}: μία {\lt{hash function}} με {\lt{output h bits}}
+			\item \textbf{{\lt{r}}}: μία συμβολοσειρά μήκους {\lt{g bits}}
+		\end{itemize}
+	
+		Έστω \textbf{{\lt{m}}} το μήνυμα που θέλουμε να κρυπτογραφήσουμε με μήκος {\lt{bits}} μικρότερο από {\lt{g bits}}.
+		
+		Αρχικά, δημιουργούμε το καινούριο μήνυμα \textbf{{\lt{m'}}}, το οποίο αποτελεί το παλιό μήνυμα {\lt{m}} στο οποίο έχουμε προσθέσει στο τέλος (έχουμε κάνει \textbf{{\lt{append}}}) όσα \textbf{μηδενικά} χρειάζεται για να φτάσουμε το νέο μήνυμα \textbf{να είναι μήκους {\lt{g bits}}}.
+		
+		Στη συνέχεια δημιουργούμε:	
+		\begin{itemize}
+			\item To \textbf{{\lt{s}}} το οποίο παράγεται κάνοντας: \textbf{{\lt{m' XOR G(r)}}}.
+			\item To \textbf{{\lt{t}}} το οποίο παράγεται κάνοντας: \textbf{{\lt{r XOR H(m' XOR G(r))}}}.
+		\end{itemize}
+	
+		Τέλος, δημιουργούμε το \textbf{{\lt{Χ}}} το οποίο αποτελεί την ένωση του \textbf{{\lt{s || t}}} (δηλαδή {\lt{s append t}}), και μετά κρυπτογραφούμε το {\lt{X}} χρησιμοποιώντας το \textbf{\lt{RSA}} και στέλνουμε το κρυπτογραφημένο μήνυμά μας.
+		
+		{\lt{ref}}:
+		{\lt{\href{ftp://ftp.di.ens.fr/pub/users/pointche/Papers/2002_cryptobytes.pdf}{2002-cryptobytes}}}
+		
+		
+		\item \textbf{Να μελετήσετε βιβλιογραφικα τις στρατηγικές {\lt{first sign then encrypt}} \& {\lt{first encrypt then sign}} και να καταλήξετε σε κάποια συμπεράσματα (πλεονεκτήματα/μειονεκτήματα)}
+		
+		\begin{itemize}
+			\item Κατα την στρατηγική \textbf{\lt{first sign then encrypt}}, η λογική είναι η εξής:
+		\end{itemize}
+		
+		Ο αποστολέας μαζί με το μήνυμά του, βάζει επίσης την ψηφιακή υπογραφή του. Στη συνέχεια, και τα δύο αυτά μαζί τα κρυπτογραφεί και τα στέλνει σε κάποιον παραλήπτη.
+		
+		\begin{itemize}
+			\item Κατα την στρατηγική \textbf{\lt{first encrypt then sign}}, η λογική είναι η εξής:
+		\end{itemize}
+		
+		Ο αποστολέας κρυπτογραφεί το μήνυμά του, στη συνέχεια βάζει την ψηφιακή υπογραφή του μαζί με το κρυπτογραφημένο πια μήνυμα και τα στέλνει σε κάποιον παραλήπτη.
+		
+		\textbf{Ανάλυση}\\
+		Όταν χρησιμοποιούμε την \textbf{\lt{first sign then encrypt}} στρατηγική, είναι προφανές ότι η ψηφιακή μας υπογραφή στέλνεται και αυτή κρυπτογραφημένη στον παραλήπτη. Αυτό σημαίνει πρακτικά ότι μόνο ο παραλήπτης μπορεί να αποκρυπτογραφήσει το μήνυμα και μετά να επιβεβαιώσει την ψηφιακή υπογραφή μου, ενώ αν κάποιος τρίτος πάρει στα χέρια του το {\lt{cipher-text}}, δεν μπορεί να βγάλει κανένα συμπέρασμα ούτε για το μήνυμα ούτε για το ποιανού είναι η υπογραφή.
+		
+		Όταν χρησιμοποιούμε την \textbf{\lt{first encrypt then sign}} στρατηγική ωστόσο, η ψηφιακή μας υπογραφή στέλνεται μη-κρυπτογραφημένη μαζί με το κρυπτογραφημένο μήνυμα στον παραλήπτη. Αυτό σημαίνει ότι αν κάποιος τρίτος πάρει στα χέρια του το {\lt{cipher-text}} του μηνύματος μαζί με την υπογραφή μου, μπορεί να δει ότι κάτι έχω υπογράψει αλλά δεν μπορεί φυσικά να δει το περιεχόμενο του μηνύματος.
+		
+		\textbf{Συμπεράσματα}\\
+		Καταλήγουμε λοιπόν στο συμπέρασμα ότι δεν υπάρχει σωστή η λάθος στρατηγική ανάμεσα στις δύο, καθώς εξαρτάται από το τι θέλουμε να πετύχουμε. Η κοινή λογική λέει πως από τι στιγμή που στέλνουμε ένα κρυπτογραφημένο κείμενο σε κάποιον, θέλουμε ένας τρίτος που πάρει στα χέρια του το {\lt{cipher text}} να έχει όσο δυνατόν λιγότερη πληροφορία για αυτό, και άρα η στρατηγική \textbf{\lt{first sign then encrypt}} φαντάζει πιο σωστή.
+		
+		Για παράδειγμα, αν έχω χρησιμοποιήσει την στρατηγική \textbf{\lt{first encrypt then sign}} και κάποιος τρίτος πάρει στα χέρια του το {\lt{cipher text}} με την υπογραφή μου που έστειλα στον παραλήπτη {\lt{Χ}}, μπορεί να αλλάξει την υπογραφή μου, να εισάγει την υπογραφή του, και να στείλει το {\lt{cipher text}} στον παραλήπτη {\lt{Χ}} ως δικό του. Αυτό ελλωχεύει τον κίνδυνο ο {\lt{Χ}} να έρθει σε επαφή με τον τρίτο, καθώς νομίζει ότι αυτός του έστειλε το {\lt{cipher-text}} που αρχικά έστειλα εγώ, και να του αποκαλύψει άθελά του πληροφορίες για το αποκρυπτογραφημένο μήνυμα.
+		
+		Ο μόνος λόγος για να χρησιμοποιήσουμε την στρατηγική \textbf{\lt{first encrypt then sign}} θα ήταν εάν δεν θα μας πείραζε ή ακόμη καλύτερα αν θα θέλαμε να φαίνεται σε όλους, σε οποιονδήποτε μπορεί να πάρει το {\lt{cipher-text}}, ότι το μήνυμα αυτό το έχω υπογράψει εγώ.
+	\end{enumerate}
 	
 	\addcontentsline{toc}{section}{Θέμα 22}
 	\section*{{\color{maroon}Θέμα 22}}
-	
 	\section*{\lt{3.1}}
 	{\lt{
 			Αρχικά θέλουμε να αποδείξουμε ότι οι αριθμοί της μορφής $4n+3$ δεν είναι τέλεια τετράγωνα.
@@ -577,7 +814,6 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 23}
 	\section*{{\color{maroon}Θέμα 23}}
-	
 	\section*{\lt{3.4}}
 	{\lt{
 			Υπάρχουν δύο περιπτώσεις που θα χρειαστεί να εξετάσουμε.
@@ -600,16 +836,42 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 24}
 	\section*{{\color{maroon}Θέμα 24}}
+		\section*{\lt{3.7}}
+	{\lt{
+			Έστω ότι $$a = n^5 + 1, b = n^{10} - 1, c = n^5 - 1$$
+			
+			$$a \cdot c = (n^5 + 1)\cdot (n^5 - 1) = n^{5^2} - 1^2 = n^{10} - 1 = b$$
+			
+			Γνωρίζουμε όμως (από ορισμό 3.1.1) ότι $a|b$ αν υπάρχει ακέραιος αριθμός $c$ τέτοιος ώστε $b = a \cdot c$ . Επομένως, η αρχική πρόταση αποδείχτηκε.
+			
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 25}
 	\section*{{\color{maroon}Θέμα 25}}
+		\section*{\lt{3.19}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No25\_Maths\_3\_19.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 26}
 	\section*{{\color{maroon}Θέμα 26}}
+		\section*{\lt{3.23}}
+	{\lt{
+			Από την εκφώνηση έχουμε δύο δεδομένα: 
+			$$(1)\quad gcd(n,a) = 1$$ 
+			$$(2)\quad n | a\cdot b$$
+			Χρησιμοποιώντας το 1ο δεδομένο, από την ταυτότητα Bezout, υπάρχουν ακέραιοι x, y, τέτοιοι ώστε $1 = x\cdot n + y\cdot a$. \\
+			Οπότε $b = b\cdot x\cdot n + b\cdot y\cdot a$. \\
+			Αλλά:\\
+			$n | b\cdot x\cdot n$ (εννοείται) και\\
+			$n | y\cdot (a\cdot b)$ (χρησιμοποιώντας το 2ο δεδομένο)\\
+			Επομένως, $n | b\cdot x\cdot n + b\cdot y\cdot a$, δηλαδή $n|b$.
+			
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 27}
 	\section*{{\color{maroon}Θέμα 27}}
-	
 	\section*{\lt{3.26}}
 	{\lt{
 			\begin{enumerate}[label=(\roman*)]
@@ -676,13 +938,22 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 28}
 	\section*{{\color{maroon}Θέμα 28}}
+		\section*{\lt{3.40}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No28\_Maths\_3\_40.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 29}
 	\section*{{\color{maroon}Θέμα 29}}
+		\section*{\lt{3.42}}
+	Κώδικας με σχόλια στο αρχείο:
+	{\lt{
+			$$No29\_Maths\_3\_42.ipynb$$
+	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 30}
 	\section*{{\color{maroon}Θέμα 30}}
-	
 	\section*{\lt{3.70}}
 	{\lt{
 			Υπόθεση:\\
@@ -701,7 +972,6 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 31}
 	\section*{{\color{maroon}Θέμα 31}}
-	
 	\section*{\lt{3.74}}
 	{\lt{
 			Παρατηρούμε ότι $561(=3\cdot 11 \cdot 17)$ είναι αριθμός Carmichael. Θα βρούμε όλους του αριθμούς Carmichael μέχρι $Ν(=3000)$.
@@ -775,8 +1045,8 @@
 			\end{center}
 			
 			Το δεύτερο ερώτημα επιλύθηκε με βοήθεια κώδικα.
-			
-			Κώδικας σε \lt{python}
+
+			Κώδικας με σχόλια στο αρχείο:
 			{\lt{
 					$$No31\_Smaller\_Carmichael\_4\_Factors.ipynb$$
 			}}

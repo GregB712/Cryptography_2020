@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.5)  3 JUN 2020 19:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.5)  4 JUN 2020 01:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1171,7 +1171,7 @@ LaTeX Info: Redefining \nameref on input line 217.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-<logo.png, id=103, 1186.4325pt x 277.035pt>
+<logo.png, id=104, 1186.4325pt x 277.035pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 225.
@@ -1183,7 +1183,7 @@ Package pdftex.def Info: logo.png  used on input line 225.
 e{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 ...section}{Θέμα 17}{12}{table.caption.3}
+l.19 ...ntsline {section}{Θέμα 17}{19}{Item.3}
                                                   % [1])
 \tf@toc=\write5
 \openout5 = `document.toc'.
@@ -1337,94 +1337,6 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\textalpha' on input line 273.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 276.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 276.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 276.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 276.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 276.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 276.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 276.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 276.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 276.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 276.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 276.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 279.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 279.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 279.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 279.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 279.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 279.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 279.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 279.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 279.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 279.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 279.
-
 (c:/texlive/2020/texmf-dist/tex/latex/gfsdidot/ot1udidot.fd)
 (c:/texlive/2020/texmf-dist/tex/latex/gfsdidot/omludidot.fd)
 (c:/texlive/2020/texmf-dist/tex/latex/pxfonts/ot1pxr.fd
@@ -1444,47 +1356,47 @@ File: upxsyc.fd 2000/12/14 v1.0
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 287.
+(hyperref)                removing `\TextOrMath ' on input line 282.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 287.
+(hyperref)                removing `\mathTheta' on input line 282.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 287.
+(hyperref)                removing `\TextOrMath ' on input line 282.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 287.
+(hyperref)                removing `\mathmu' on input line 282.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 287.
+(hyperref)                removing `\TextOrMath ' on input line 282.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 287.
+(hyperref)                removing `\mathalpha' on input line 282.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 287.
+(hyperref)                removing `\textTheta' on input line 282.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 287.
+(hyperref)                removing `\ensuregreek' on input line 282.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 287.
+(hyperref)                removing `\acctonos' on input line 282.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 287.
+(hyperref)                removing `\textepsilon' on input line 282.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 287.
+(hyperref)                removing `\textalpha' on input line 282.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1574,1048 +1486,746 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\textalpha' on input line 298.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 301.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 301.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 301.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 301.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 301.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 301.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 301.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 301.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 301.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 301.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 301.
-
 [3] [4]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 353.
+(hyperref)                removing `\TextOrMath ' on input line 358.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 353.
+(hyperref)                removing `\mathTheta' on input line 358.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 353.
+(hyperref)                removing `\TextOrMath ' on input line 358.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 353.
+(hyperref)                removing `\mathmu' on input line 358.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 353.
+(hyperref)                removing `\TextOrMath ' on input line 358.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 353.
+(hyperref)                removing `\mathalpha' on input line 358.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 353.
+(hyperref)                removing `\textTheta' on input line 358.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 353.
+(hyperref)                removing `\ensuregreek' on input line 358.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 353.
+(hyperref)                removing `\acctonos' on input line 358.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 353.
+(hyperref)                removing `\textepsilon' on input line 358.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 353.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 356.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 356.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 356.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 356.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 356.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 356.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 356.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 356.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 356.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 356.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 356.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+(hyperref)                removing `\textalpha' on input line 358.
 
 [5]
 
-LaTeX Warning: Command \textChi invalid in math mode on input line 397.
-
-
-LaTeX Warning: Command \textChi invalid in math mode on input line 397.
-
-
-LaTeX Warning: Command \textChi invalid in math mode on input line 397.
-
-
-LaTeX Warning: Command \textChi invalid in math mode on input line 397.
-
-[6]
-
-LaTeX Warning: Command \textEta invalid in math mode on input line 406.
-
-
-LaTeX Warning: Command \textEta invalid in math mode on input line 406.
-
-[7] [8] [9]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 462.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 462.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 462.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 462.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 462.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 462.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 462.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 462.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 462.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 462.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 462.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 465.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 465.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 465.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 465.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 465.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 465.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 465.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 465.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 465.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 465.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 465.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 468.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 468.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 468.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 468.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 468.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 468.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 468.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 468.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 468.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 468.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 468.
-
-
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 471.
+(hyperref)                removing `\TextOrMath ' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 471.
+(hyperref)                removing `\mathTheta' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 471.
+(hyperref)                removing `\TextOrMath ' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 471.
+(hyperref)                removing `\mathmu' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 471.
+(hyperref)                removing `\TextOrMath ' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 471.
+(hyperref)                removing `\mathalpha' on input line 366.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 471.
+(hyperref)                removing `\textTheta' on input line 366.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 471.
+(hyperref)                removing `\ensuregreek' on input line 366.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 471.
+(hyperref)                removing `\acctonos' on input line 366.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 471.
+(hyperref)                removing `\textepsilon' on input line 366.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 471.
+(hyperref)                removing `\textalpha' on input line 366.
 
-[10] [11]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 511.
+(hyperref)                removing `\TextOrMath ' on input line 374.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 511.
+(hyperref)                removing `\mathTheta' on input line 374.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 511.
+(hyperref)                removing `\TextOrMath ' on input line 374.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 511.
+(hyperref)                removing `\mathmu' on input line 374.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 511.
+(hyperref)                removing `\TextOrMath ' on input line 374.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 511.
+(hyperref)                removing `\mathalpha' on input line 374.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 511.
+(hyperref)                removing `\textTheta' on input line 374.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 511.
+(hyperref)                removing `\ensuregreek' on input line 374.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 511.
+(hyperref)                removing `\acctonos' on input line 374.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 511.
+(hyperref)                removing `\textepsilon' on input line 374.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 511.
+(hyperref)                removing `\textalpha' on input line 374.
 
+[6] [7]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 514.
+(hyperref)                removing `\TextOrMath ' on input line 424.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 514.
+(hyperref)                removing `\mathTheta' on input line 424.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 514.
+(hyperref)                removing `\TextOrMath ' on input line 424.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 514.
+(hyperref)                removing `\mathmu' on input line 424.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 514.
+(hyperref)                removing `\TextOrMath ' on input line 424.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 514.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 514.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 514.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 514.
+(hyperref)                removing `\mathalpha' on input line 424.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 514.
+(hyperref)                removing `\textTheta' on input line 424.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 514.
+(hyperref)                removing `\ensuregreek' on input line 424.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 517.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 517.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 517.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 517.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 517.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 517.
-
-
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 517.
+(hyperref)                removing `\acctonos' on input line 424.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 517.
+(hyperref)                removing `\textepsilon' on input line 424.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 517.
+(hyperref)                removing `\textalpha' on input line 424.
 
+[8] [9]
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 517.
+LaTeX Warning: Command \textZeta invalid in math mode on input line 464.
 
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 517.
+LaTeX Warning: Command \textZeta invalid in math mode on input line 464.
 
+[10]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 527.
+(hyperref)                removing `\TextOrMath ' on input line 473.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 527.
+(hyperref)                removing `\mathTheta' on input line 473.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 527.
+(hyperref)                removing `\TextOrMath ' on input line 473.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 527.
+(hyperref)                removing `\mathmu' on input line 473.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 527.
+(hyperref)                removing `\TextOrMath ' on input line 473.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 527.
+(hyperref)                removing `\mathalpha' on input line 473.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 527.
+(hyperref)                removing `\textTheta' on input line 473.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 527.
+(hyperref)                removing `\ensuregreek' on input line 473.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 527.
+(hyperref)                removing `\acctonos' on input line 473.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 527.
+(hyperref)                removing `\textepsilon' on input line 473.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 527.
+(hyperref)                removing `\textalpha' on input line 473.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 530.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 530.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 530.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 530.
+LaTeX Warning: Command \textChi invalid in math mode on input line 499.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 530.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 530.
-
+LaTeX Warning: Command \textChi invalid in math mode on input line 499.
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 530.
 
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 530.
+LaTeX Warning: Command \textChi invalid in math mode on input line 499.
 
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 530.
+LaTeX Warning: Command \textChi invalid in math mode on input line 499.
 
+[11]
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 530.
+LaTeX Warning: Command \textEta invalid in math mode on input line 508.
 
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 530.
+LaTeX Warning: Command \textEta invalid in math mode on input line 508.
 
+[12] [13] [14]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 538.
+(hyperref)                removing `\TextOrMath ' on input line 564.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 538.
+(hyperref)                removing `\mathTheta' on input line 564.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 538.
+(hyperref)                removing `\TextOrMath ' on input line 564.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 538.
+(hyperref)                removing `\mathmu' on input line 564.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 538.
+(hyperref)                removing `\TextOrMath ' on input line 564.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 538.
+(hyperref)                removing `\mathalpha' on input line 564.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 538.
+(hyperref)                removing `\textTheta' on input line 564.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 538.
+(hyperref)                removing `\ensuregreek' on input line 564.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 538.
+(hyperref)                removing `\acctonos' on input line 564.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 538.
+(hyperref)                removing `\textepsilon' on input line 564.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 538.
+(hyperref)                removing `\textalpha' on input line 564.
 
-[12]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 541.
+(hyperref)                removing `\TextOrMath ' on input line 572.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 541.
+(hyperref)                removing `\mathTheta' on input line 572.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 541.
+(hyperref)                removing `\TextOrMath ' on input line 572.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 541.
+(hyperref)                removing `\mathmu' on input line 572.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 541.
+(hyperref)                removing `\TextOrMath ' on input line 572.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 541.
+(hyperref)                removing `\mathalpha' on input line 572.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 541.
+(hyperref)                removing `\textTheta' on input line 572.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 541.
+(hyperref)                removing `\ensuregreek' on input line 572.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 541.
+(hyperref)                removing `\acctonos' on input line 572.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 541.
+(hyperref)                removing `\textepsilon' on input line 572.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 541.
+(hyperref)                removing `\textalpha' on input line 572.
 
+[15]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 544.
+(hyperref)                removing `\TextOrMath ' on input line 580.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 544.
+(hyperref)                removing `\mathTheta' on input line 580.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 544.
+(hyperref)                removing `\TextOrMath ' on input line 580.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 544.
+(hyperref)                removing `\mathmu' on input line 580.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 544.
+(hyperref)                removing `\TextOrMath ' on input line 580.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 544.
+(hyperref)                removing `\mathalpha' on input line 580.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 544.
+(hyperref)                removing `\textTheta' on input line 580.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 544.
+(hyperref)                removing `\ensuregreek' on input line 580.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 544.
+(hyperref)                removing `\acctonos' on input line 580.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 544.
+(hyperref)                removing `\textepsilon' on input line 580.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 544.
+(hyperref)                removing `\textalpha' on input line 580.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 547.
+(hyperref)                removing `\TextOrMath ' on input line 588.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 547.
+(hyperref)                removing `\mathTheta' on input line 588.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 547.
+(hyperref)                removing `\TextOrMath ' on input line 588.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 547.
+(hyperref)                removing `\mathmu' on input line 588.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 547.
+(hyperref)                removing `\TextOrMath ' on input line 588.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 547.
+(hyperref)                removing `\mathalpha' on input line 588.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 547.
+(hyperref)                removing `\textTheta' on input line 588.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 547.
+(hyperref)                removing `\ensuregreek' on input line 588.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 547.
+(hyperref)                removing `\acctonos' on input line 588.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 547.
+(hyperref)                removing `\textepsilon' on input line 588.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 547.
+(hyperref)                removing `\textalpha' on input line 588.
 
-[13]
+[16]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 578.
+(hyperref)                removing `\TextOrMath ' on input line 627.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 578.
+(hyperref)                removing `\mathTheta' on input line 627.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 578.
+(hyperref)                removing `\TextOrMath ' on input line 627.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 578.
+(hyperref)                removing `\mathmu' on input line 627.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 578.
+(hyperref)                removing `\TextOrMath ' on input line 627.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 578.
+(hyperref)                removing `\mathalpha' on input line 627.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 578.
+(hyperref)                removing `\textTheta' on input line 627.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 578.
+(hyperref)                removing `\ensuregreek' on input line 627.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 578.
+(hyperref)                removing `\acctonos' on input line 627.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 578.
+(hyperref)                removing `\textepsilon' on input line 627.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 578.
+(hyperref)                removing `\textalpha' on input line 627.
 
-[14]
+[17]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 601.
+(hyperref)                removing `\TextOrMath ' on input line 635.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 601.
+(hyperref)                removing `\mathTheta' on input line 635.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 601.
+(hyperref)                removing `\TextOrMath ' on input line 635.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 601.
+(hyperref)                removing `\mathmu' on input line 635.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 601.
+(hyperref)                removing `\TextOrMath ' on input line 635.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 601.
+(hyperref)                removing `\mathalpha' on input line 635.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 601.
+(hyperref)                removing `\textTheta' on input line 635.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 601.
+(hyperref)                removing `\ensuregreek' on input line 635.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 601.
+(hyperref)                removing `\acctonos' on input line 635.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 601.
+(hyperref)                removing `\textepsilon' on input line 635.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 601.
+(hyperref)                removing `\textalpha' on input line 635.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 604.
+(hyperref)                removing `\TextOrMath ' on input line 643.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 604.
+(hyperref)                removing `\mathTheta' on input line 643.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 604.
+(hyperref)                removing `\TextOrMath ' on input line 643.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 604.
+(hyperref)                removing `\mathmu' on input line 643.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 604.
+(hyperref)                removing `\TextOrMath ' on input line 643.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 604.
+(hyperref)                removing `\mathalpha' on input line 643.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 604.
+(hyperref)                removing `\textTheta' on input line 643.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 604.
+(hyperref)                removing `\ensuregreek' on input line 643.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 604.
+(hyperref)                removing `\acctonos' on input line 643.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 604.
+(hyperref)                removing `\textepsilon' on input line 643.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 604.
+(hyperref)                removing `\textalpha' on input line 643.
 
+[18]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 607.
+(hyperref)                removing `\TextOrMath ' on input line 652.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 607.
+(hyperref)                removing `\mathTheta' on input line 652.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 607.
+(hyperref)                removing `\TextOrMath ' on input line 652.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 607.
+(hyperref)                removing `\mathmu' on input line 652.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 607.
+(hyperref)                removing `\TextOrMath ' on input line 652.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 607.
+(hyperref)                removing `\mathalpha' on input line 652.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 607.
+(hyperref)                removing `\textTheta' on input line 652.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 607.
+(hyperref)                removing `\ensuregreek' on input line 652.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 607.
+(hyperref)                removing `\acctonos' on input line 652.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 607.
+(hyperref)                removing `\textepsilon' on input line 652.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 607.
+(hyperref)                removing `\textalpha' on input line 652.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 610.
+(hyperref)                removing `\TextOrMath ' on input line 660.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 610.
+(hyperref)                removing `\mathTheta' on input line 660.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 610.
+(hyperref)                removing `\TextOrMath ' on input line 660.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 610.
+(hyperref)                removing `\mathmu' on input line 660.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 610.
+(hyperref)                removing `\TextOrMath ' on input line 660.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 610.
+(hyperref)                removing `\mathalpha' on input line 660.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 610.
+(hyperref)                removing `\textTheta' on input line 660.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 610.
+(hyperref)                removing `\ensuregreek' on input line 660.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 610.
+(hyperref)                removing `\acctonos' on input line 660.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 610.
+(hyperref)                removing `\textepsilon' on input line 660.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 610.
+(hyperref)                removing `\textalpha' on input line 660.
 
-[15] [16] [17]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 677.
+(hyperref)                removing `\TextOrMath ' on input line 667.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 677.
+(hyperref)                removing `\mathTheta' on input line 667.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 677.
+(hyperref)                removing `\TextOrMath ' on input line 667.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 677.
+(hyperref)                removing `\mathmu' on input line 667.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 677.
+(hyperref)                removing `\TextOrMath ' on input line 667.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 677.
+(hyperref)                removing `\mathalpha' on input line 667.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 677.
+(hyperref)                removing `\textTheta' on input line 667.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 677.
+(hyperref)                removing `\ensuregreek' on input line 667.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 677.
+(hyperref)                removing `\acctonos' on input line 667.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 677.
+(hyperref)                removing `\textepsilon' on input line 667.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 677.
+(hyperref)                removing `\textalpha' on input line 667.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 680.
+(hyperref)                removing `\TextOrMath ' on input line 675.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 680.
+(hyperref)                removing `\mathTheta' on input line 675.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 680.
+(hyperref)                removing `\TextOrMath ' on input line 675.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 680.
+(hyperref)                removing `\mathmu' on input line 675.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 680.
+(hyperref)                removing `\TextOrMath ' on input line 675.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 680.
+(hyperref)                removing `\mathalpha' on input line 675.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 680.
+(hyperref)                removing `\textTheta' on input line 675.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 680.
+(hyperref)                removing `\ensuregreek' on input line 675.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 680.
+(hyperref)                removing `\acctonos' on input line 675.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 680.
+(hyperref)                removing `\textepsilon' on input line 675.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 680.
+(hyperref)                removing `\textalpha' on input line 675.
 
+[19]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\TextOrMath ' on input line 683.
@@ -2660,103 +2270,564 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\textalpha' on input line 683.
 
+(c:/texlive/2020/texmf-dist/tex/latex/gfsdidot/ts1udidot.fd) [20]
+LaTeX Info: Redefining \anw@print on input line 703.
+LaTeX Info: Redefining \anw@print on input line 704.
+LaTeX Info: Redefining \anw@print on input line 705.
+LaTeX Info: Redefining \anw@print on input line 706.
+LaTeX Info: Redefining \anw@print on input line 707.
+LaTeX Info: Redefining \anw@print on input line 708.
+ [21]
 
-LaTeX Warning: Command \textNu invalid in math mode on input line 699.
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
 
 
-LaTeX Warning: Command \textNu invalid in math mode on input line 699.
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 721.
+
+<images/bibliography.png, id=257, 216.05719pt x 146.79843pt>
+File: images/bibliography.png Graphic file (type png)
+<use images/bibliography.png>
+Package pdftex.def Info: images/bibliography.png  used on input line 733.
+(pdftex.def)             Requested size: 216.05664pt x 146.79807pt.
+[22] [23 <./images/bibliography.png>] [24]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 785.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 702.
+(hyperref)                removing `\mathTheta' on input line 785.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathTheta' on input line 702.
+(hyperref)                removing `\TextOrMath ' on input line 785.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 702.
+(hyperref)                removing `\mathmu' on input line 785.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathmu' on input line 702.
+(hyperref)                removing `\TextOrMath ' on input line 785.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\TextOrMath ' on input line 702.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathalpha' on input line 702.
+(hyperref)                removing `\mathalpha' on input line 785.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textTheta' on input line 702.
+(hyperref)                removing `\textTheta' on input line 785.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ensuregreek' on input line 702.
+(hyperref)                removing `\ensuregreek' on input line 785.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acctonos' on input line 702.
+(hyperref)                removing `\acctonos' on input line 785.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textepsilon' on input line 702.
+(hyperref)                removing `\textepsilon' on input line 785.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textalpha' on input line 702.
+(hyperref)                removing `\textalpha' on input line 785.
+
+[25]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 815.
 
 
-LaTeX Warning: Command \textNu invalid in math mode on input line 707.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathTheta' on input line 815.
 
 
-LaTeX Warning: Command \textNu invalid in math mode on input line 707.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 815.
 
-[18] [19] [20] (./document.bbl
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathmu' on input line 815.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 815.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathalpha' on input line 815.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textTheta' on input line 815.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ensuregreek' on input line 815.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acctonos' on input line 815.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 815.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 815.
+
+[26]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 837.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathTheta' on input line 837.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 837.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathmu' on input line 837.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 837.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathalpha' on input line 837.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textTheta' on input line 837.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ensuregreek' on input line 837.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acctonos' on input line 837.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 837.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 837.
+
+[27]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 849.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathTheta' on input line 849.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 849.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathmu' on input line 849.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 849.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathalpha' on input line 849.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textTheta' on input line 849.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ensuregreek' on input line 849.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acctonos' on input line 849.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 849.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 849.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 857.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathTheta' on input line 857.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 857.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathmu' on input line 857.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 857.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathalpha' on input line 857.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textTheta' on input line 857.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ensuregreek' on input line 857.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acctonos' on input line 857.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 857.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 857.
+
+[28]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 873.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathTheta' on input line 873.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 873.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathmu' on input line 873.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 873.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathalpha' on input line 873.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textTheta' on input line 873.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ensuregreek' on input line 873.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acctonos' on input line 873.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 873.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 873.
+
+[29] [30]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 939.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathTheta' on input line 939.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 939.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathmu' on input line 939.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 939.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathalpha' on input line 939.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textTheta' on input line 939.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ensuregreek' on input line 939.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acctonos' on input line 939.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 939.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 939.
+
+[31]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 947.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathTheta' on input line 947.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 947.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathmu' on input line 947.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 947.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathalpha' on input line 947.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textTheta' on input line 947.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ensuregreek' on input line 947.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acctonos' on input line 947.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 947.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 947.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 955.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathTheta' on input line 955.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 955.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathmu' on input line 955.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 955.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathalpha' on input line 955.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textTheta' on input line 955.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ensuregreek' on input line 955.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acctonos' on input line 955.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 955.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 955.
+
+
+LaTeX Warning: Command \textNu invalid in math mode on input line 970.
+
+
+LaTeX Warning: Command \textNu invalid in math mode on input line 970.
+
+[32]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 973.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathTheta' on input line 973.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 973.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathmu' on input line 973.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\TextOrMath ' on input line 973.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathalpha' on input line 973.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textTheta' on input line 973.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ensuregreek' on input line 973.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acctonos' on input line 973.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textepsilon' on input line 973.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textalpha' on input line 973.
+
+
+LaTeX Warning: Command \textNu invalid in math mode on input line 977.
+
+
+LaTeX Warning: Command \textNu invalid in math mode on input line 977.
+
+[33] [34] (./document.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 788.
- [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 788.
+
+Package caption Warning: Unused \captionsetup[table] on input line 104.
+See the caption package documentation for explanation.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1058.
+[35]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1058.
  (./document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 788.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 788.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1058.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1058.
+
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: F9B3796DA56745873A76CFCA6D975E02;1517.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 788.
+(rerunfilecheck)             Checksum: E5A10743C33F9C1871631E5B3AFB0323;1355.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1058.
  ) 
 Here is how much of TeX's memory you used:
- 16213 strings out of 480682
- 247848 string characters out of 5908554
+ 16281 strings out of 480682
+ 248762 string characters out of 5908554
  645786 words of memory out of 5000000
- 31645 multiletter control sequences out of 15000+600000
- 577455 words of font info for 105 fonts, out of 8000000 for 9000
+ 31674 multiletter control sequences out of 15000+600000
+ 585849 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,45p,463b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/gfsdidot/gfsudidotmath.enc}{c:/te
-xlive/2020/texmf-dist/fonts/enc/dvips/gfsdidot/didotec.enc}{c:/texlive/2020/tex
-mf-dist/fonts/enc/dvips/gfsdidot/didotOT1.enc}{c:/texlive/2020/texmf-dist/fonts
-/enc/dvips/gfsdidot/didot.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/gfsdi
-dot/gpdidot.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/gfsdidot/GFSDido
-t-Bold.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/gfsdidot/GFSDidot-Ita
-lic.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/gfsdidot/GFSDidot.pfb><c
-:/texlive/2020/texmf-dist/fonts/type1/public/gfsdidot/GFSOlga.pfb><c:/texlive/2
-020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2020/
-texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2020/texm
-f-dist/fonts/type1/public/pxfonts/pxex.pfb><c:/texlive/2020/texmf-dist/fonts/ty
-pe1/public/pxfonts/pxsy.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/pxfo
-nts/pxsyc.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/pxfonts/rpxmi.pfb>
-
-Output written on document.pdf (23 pages, 262235 bytes).
+ 41i,12n,45p,995b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/gfsdidot/didotOT1.enc}{c:/texlive
+/2020/texmf-dist/fonts/enc/dvips/gfsdidot/didotTS1.enc}{c:/texlive/2020/texmf-d
+ist/fonts/enc/dvips/gfsdidot/gfsudidotmath.enc}{c:/texlive/2020/texmf-dist/font
+s/enc/dvips/gfsdidot/didotec.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/gf
+sdidot/didot.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/gfsdidot/gpdidot.e
+nc}<c:/texlive/2020/texmf-dist/fonts/type1/public/gfsdidot/GFSDidot-Bold.pfb><c
+:/texlive/2020/texmf-dist/fonts/type1/public/gfsdidot/GFSDidot-Italic.pfb><c:/t
+exlive/2020/texmf-dist/fonts/type1/public/gfsdidot/GFSDidot.pfb><c:/texlive/202
+0/texmf-dist/fonts/type1/public/gfsdidot/GFSOlga.pfb><c:/texlive/2020/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2020/texmf-dist/fo
+nts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2020/texmf-dist/fonts/
+type1/public/pxfonts/pxex.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/px
+fonts/pxsy.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/pxfonts/pxsyc.pfb
+><c:/texlive/2020/texmf-dist/fonts/type1/public/pxfonts/rpxmi.pfb>
+Output written on document.pdf (37 pages, 300381 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
- 260 compressed objects within 3 object streams
- 29 named destinations out of 1000 (max. 500000)
- 262 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 388 PDF objects out of 1000 (max. 8388607)
+ 331 compressed objects within 4 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 267 words of extra memory for PDF output out of 10000 (max. 10000000)
 
