@@ -627,6 +627,24 @@
 	\addcontentsline{toc}{section}{Θέμα 14}
 	\section*{{\color{maroon}Θέμα 14}}
 	\section*{\lt{Miller-Rabin Test}}
+	{\lt{
+			\begin{enumerate}
+				\item We can see that a big portion of the total numbers generated from $f(x) = x^2 + x - 1354363$, about 2/5 of the total, are primes
+				\item A lucky number of Euler is a number p such that the prime-generating polynomial:\\
+				        $n^2 - n + p$ is prime for $n=1, 2, ..., p-1$
+				
+				Specifically, the lucky numbers of Euler (excluding the trivial case $p=3$) are those numbers p such that the 
+				imaginary quadratic field Q(sqrt(1-4p)) has class number 1.
+				(Rabinowitz 1913, Le Lionnais 1983, Conway and Guy 1996, Ribenboim 2000).
+				
+				As proved by Heegner (1952) (although his proof was not accepted as complete at the time) and subsequently established by 
+				Stark (1967), there are only nine numbers -d such that h(-d)=1 (the Heegner numbers -2, -3, -7, -11, -19, -43, -67, and -163), 
+				and of these, only 7, 11, 19, 43, 67, and 163 are of the required form.
+				
+				Therefore, the only lucky numbers of Euler are 2, 3, 5, 11, 17, and 41 (Le Lionnais 1983, OEIS A014556), and
+				\textbf{there does not exist a better prime-generating polynomial of Euler's form}.
+			\end{enumerate}
+	}}
 	Κώδικας με σχόλια στο αρχείο:
 	{\lt{
 			$$No12\_Miller-Rabin\_Test.ipynb$$
