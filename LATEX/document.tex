@@ -279,6 +279,11 @@
 	\addcontentsline{toc}{section}{Θέμα 3}
 	\section*{{\color{maroon}Θέμα 3}}
 	
+	\section*{\lt{Vigenere}}
+	{\lt{
+		$$No3\_Vigenere.ipynb$$
+	}}
+	
 	\addcontentsline{toc}{section}{Θέμα 4}
 	\section*{{\color{maroon}Θέμα 4}}
 	
@@ -286,9 +291,8 @@
 	\section*{{\color{maroon}Θέμα 5}}
 	
 	\section*{\lt{Dictionary Attack}}
-	
 	{\lt{
-			\lstinputlisting[language=python]{Code/No5.py}
+			$$No5\_Dictionary Attack.ipynb$$
 	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 6}
@@ -343,7 +347,7 @@
 	}}
 	Κώδικας σε \lt{python}
 	{\lt{
-			\lstinputlisting[language=python]{Code/No7.py}
+			$$No7\_Shift\_Operator.ipynb$$
 	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 8}
@@ -452,7 +456,7 @@
 	
 	Κώδικας σε \lt{python}
 	{\lt{
-			\lstinputlisting[language=python]{Code/No9.py}
+			$$No9\_Entropy.ipynb$$
 	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 10}
@@ -501,7 +505,7 @@
 
 	Κώδικας σε \lt{python}
 	{\lt{
-			\lstinputlisting[language=python]{Code/No13.py}
+			$$No13\_ChineseTheorem.ipynb$$
 	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 14}
@@ -513,10 +517,11 @@
 	\addcontentsline{toc}{section}{Θέμα 16}
 	\section*{{\color{maroon}Θέμα 16}}
 	
+	\section*{\lt{GPG, PGP, Send Message}}
 	{\lt{
 		Μπάρμπας Γρηγόριος: $$b641ed06419f8ff4a6447cc9fb9d2295$$
 		
-		Φτιάκας Σωτήριος: $$add_your_hash$$
+		Φτιάκας Σωτήριος: $$5f816b4f295dc95721a7a34b9fd1653a$$
 	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 17}
@@ -525,6 +530,7 @@
 	\addcontentsline{toc}{section}{Θέμα 18}
 	\section*{{\color{maroon}Θέμα 18}}
 	
+	\section*{\lt{secure.zip}}
 	{\lt{
 			$$9e94b15ed312fa42232fd87a55db0d39$$
 	}}
@@ -541,6 +547,7 @@
 	\addcontentsline{toc}{section}{Θέμα 22}
 	\section*{{\color{maroon}Θέμα 22}}
 	
+	\section*{\lt{3.1}}
 	{\lt{
 			Αρχικά θέλουμε να αποδείξουμε ότι οι αριθμοί της μορφής $4n+3$ δεν είναι τέλεια τετράγωνα.
 			Αρχικά για $n\leq0$ εύκολα παρατηρούμε ότι ισχύει η παραπάνω πρόταση. Αυτό συμβαίνει καθώς για $n=0$ έχουμε το $3$ το οποίο δεν είναι τέλειο τετράγωνο και για $n < 0$ το $4n+3$ είναι αρνητικός. 
@@ -571,6 +578,26 @@
 	\addcontentsline{toc}{section}{Θέμα 23}
 	\section*{{\color{maroon}Θέμα 23}}
 	
+	\section*{\lt{3.4}}
+	{\lt{
+			Υπάρχουν δύο περιπτώσεις που θα χρειαστεί να εξετάσουμε.
+			
+			Περίπτωση 1:
+			Για περιττό αριθμό διαδοχικών αριθμών, αυτοί οι αριθμοί θα έχουν ως μέσο έναν ακέραιο (μεσσαίος αριθμός), οπότε το άθροισμα γράφεται ως εξής:
+			$$sum = average * number\_of\_consecutive\_numbers$$
+			$$\implies sum = integer * odd\_number$$
+			Αυτό σημαίνει ότι το άθροισμα ($sum$) διαιρείται από έναν περιττό αριθμό. Αυτό όμως δεν μπορεί να είναι το σενάριο για το $2^m$.
+			
+			Περίπτωση 2:
+			Ένας ζυγός αριθμός διαδοχικών αριθμών έχουν ως μέσο το μέσο του αθροίσματος των δύο μεσαίων. Συνεπώς έχουμε:
+			$$sum = ((sum\_of\_two\_middle\_numbers) * \frac{1}{2}) * number\_of\_consecutive\_numbers$$
+			$$\implies sum = (sum\_of\_two\_middle\_numbers) * \frac{1}{2} * even\_number$$
+			$$\implies sum = (sum\_of\_two\_middle\_numbers) * integer$$
+			$$\implies sum = ((k) + (k+1)) * integer \quad , k \in \mathbb{Z}$$
+			$$\implies sum = (2k+1) * integer$$
+			Το $2k+1$ είναι περιττός αριθμός, άρα το άθροισμα ($sum$) έχει ως παράγοντα περιττό, άρα όπως και προηγουμένως απορρίπτεται το σενάριο $2^m$.
+	}}
+	
 	\addcontentsline{toc}{section}{Θέμα 24}
 	\section*{{\color{maroon}Θέμα 24}}
 	
@@ -583,6 +610,70 @@
 	\addcontentsline{toc}{section}{Θέμα 27}
 	\section*{{\color{maroon}Θέμα 27}}
 	
+	\section*{\lt{3.26}}
+	{\lt{
+			\begin{enumerate}[label=(\roman*)]
+				\item Έστω ότι $d_1 = \gcd(c,b)$ και $d_2 = \gcd(ac,b)$
+				
+				Τότε έχουμε $c \cdot x_1+b \cdot y_1 = d_1$, $a \cdot c \cdot x_2+b \cdot y_2 = d_2$ και $a \cdot x+b \cdot y=1$, από Bezout.
+				Αρχικά πολλαπλασιάζουμε την $a \cdot x+b \cdot y=1$ με το $d_1$ και έχουμε:
+					\begin{gather*}
+					d_1 \cdot (a \cdot x+b \cdot y)=1 \cdot d_1 \\
+					\implies a \cdot x(c \cdot x_1+b \cdot y_1)+b \cdot d_1 \cdot y = d_1 \\
+					\implies a \cdot c \cdot (x \cdot x_1)+b \cdot (a \cdot x \cdot y_1+d_1 \cdot y) = d_1
+					\end{gather*}
+				Εφόσον ισχύει ότι $d_2 = \gcd(ac,b)$, τότε διαιρεί κάθε ακέραιο γραμμικό συνδυασμό των $ac$ και $b$ και άρα έχουμε $d_2|d_1 \quad(1)$.
+				
+				Στην συνέχεια θα πολλαπλασιάσουμε ομοίως το $a \cdot x+b \cdot y=1$ με το $d_2$ και έχουμε:
+					\begin{gather*}
+					d_2 \cdot (a \cdot x+b \cdot y)=1 \cdot d_2 \\
+					\implies a \cdot x(a \cdot c \cdot x_2+b \cdot y_2)+b \cdot d_2 \cdot y = d_2 \\
+					\implies c \cdot (a^2 \cdot x \cdot x_2) + b \cdot (a \cdot x \cdot y_2 + d_2 \cdot y) = d_2
+					\end{gather*}
+				Ομοίως με προηγουμένως ισχύει ότι $d_1 = \gcd(c,b)$, τότε διαιρεί κάθε ακέραιο γραμμικό συνδυασμό των $ac$ και $b$ και άρα έχουμε $d_1|d_2 \quad(2)$.
+				Από (1) και (2) έχουμε ότι $d_1 = d_2$, μη αρνητικά.
+				
+				Αφού 
+				$$(1) \implies |d_1| \leqslant |d_2|$$
+				$$(2) \implies |d_2| \leqslant |d_1|$$
+				\item Έστω $d$ κοινός διαρέτης των $a+b$ και $a-b$, τότε ο $d$ διαιρεί και το άθροισμα και την διαφορά τους.
+				$$d|(a+b)$$
+				$$d|(a-b)$$
+				$$d|(a+b)+(a+b) = 2 \cdot a$$
+				$$d|(a+b)-(a-b) = 2 \cdot b$$
+				
+				Τότε έχουμε ότι:
+				$$d|\gcd(2a,2b)=2\gcd(a,b)$$
+				Όμως από αρχικά δεδομένα έχουμε ότι $\gcd(a,b)=1$ άρα τότε ισχύει:
+				$$d|2$$
+				Συνεπώς το $d \in \{1,2\}$
+				
+				Εαν a,b περιττοί τότε έχουμε το εξής:
+				$$a = 2k_1+1 \quad k_1 \in \mathbb{Z}$$
+				$$b = 2k_2+1 \quad k_2 \in \mathbb{Z}$$	
+				Άρα θα ισχύει και το εξής:
+				$$a+b = 2k_1+1 + 2k_2+1 = 2k_1 + 2k_2 + 2 = 2\cdot (k_1+k_2+1) \quad (even)$$
+				$$a-b = 2k_1+1 - 2k_2+1 = 2k_1 - 2k_2 = 2\cdot (k_1 - k_2) \quad (even)$$
+				Εφόσον και τα δύο είναι ζυγοί αριθμοί τότε οι διαιρέτες τους θα είναι ζυγοί.
+				Όπως αποδείξαμε προηγούμενος όμως, αν $d$ διαιρέτης, τότε $d \in \{1,2\}$
+				Συμπερασματικά έχουμε ότι $d=2$.
+				
+				\item Έστω $d=\gcd(a,b)$ τότε $d=a\cdot x + b\cdot y, \quad x,y \in \mathbb{Z}$
+				Αν $i=\gcd(2^a-1, 2^b-1)$ τότε
+				$$2^a \equiv 1 \mod{i}$$
+				$$2^b \equiv 1 \mod{i}$$
+				Συνεπώς έχουμε
+				$$2^d = 2^{a\cdot x + b\cdot y} = (2^a)^x \cdot (2^b)^y \equiv 1 \mod{i}$$
+				Οπότε $p|2^d-1$.
+				Από την άλλη μεριά αν $d|a$, τότε $2^d-1|2^q-1$, οπότε το $2^d-1$ αποτελεί κοινό παράγοντα.
+				Έτσι αποδείξαμε ότι 
+				$$\gcd(2^a-1,2^b-1)=2^{\gcd(a,b)}-1$$
+				Όμως από αρχικά δεδομένα $d=1$, άρα και η προηγούμενη σχέση γράφεται:
+				$$\gcd(2^a-1,2^b-1)=1$$
+				\item Παρατηρούμε ότι αν αντικαταστήσουμε τα $M_p, M_q$ έχουμε την παραπάνω σχέση.
+			\end{enumerate}
+	}}
+	
 	\addcontentsline{toc}{section}{Θέμα 28}
 	\section*{{\color{maroon}Θέμα 28}}
 	
@@ -592,6 +683,7 @@
 	\addcontentsline{toc}{section}{Θέμα 30}
 	\section*{{\color{maroon}Θέμα 30}}
 	
+	\section*{\lt{3.70}}
 	{\lt{
 			Υπόθεση:\\
 			$
@@ -609,6 +701,86 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 31}
 	\section*{{\color{maroon}Θέμα 31}}
+	
+	\section*{\lt{3.74}}
+	{\lt{
+			Παρατηρούμε ότι $561(=3\cdot 11 \cdot 17)$ είναι αριθμός Carmichael. Θα βρούμε όλους του αριθμούς Carmichael μέχρι $Ν(=3000)$.
+			
+			Πρόταση 1:
+			Έστω $n=p \cdot u$ όπου $p$ είναι πρώτος. Τότε αν και μόνο αν $p-1|u-1$ θα ισχύει και $p-1|n-1$.
+			$$(n-1)-(u-1) = n-u = p\cdot u-u=(p-1)\cdot u$$
+			
+			Πρόταση 2:
+			Έστω ένας αριθμός Carmichael έχει τουλάχιστον τρεις πρώτους παράγοντες. Για την απόδειξη αυτής της πρότασης εφαρμόζουμε την εξής λογική:
+			
+			Έστω ότι ο $n$ έχει δύο πρώτους παράγοντες $n=p\cdot q$ όπου $p,q$ πρώτοι και $p>q$. Τότε $p-1 > q-1$, άρα το $p-1$ δεν διαιρεί το $q-1$. Από την πρόταση (1) το $p-1$ δεν διαιρεί το $n-1$. Συνεπώς το $n$ δεν είναι αριθμός Carmichael.
+			
+			Πρόταση 3:
+			Ας υποθέσουμε ότι ο $n$ είναι Carmicael και ότι το $p$ και το $q$ είναι πρώτοι παράγοντες του n. Τότε $q\not\equiv 1 \mod p$.
+			
+			Έστω ότι το $q\equiv 1 \mod p$, έτσι ισχύει ότι $p|q-1$. Τότε $q-1|n-1$ καθώς θα ισχύει και ότι $p|n-1$. Όμως αυτό είναι άτοπο καθώς ισχύει ότι $p|n$.
+			
+			Εύρεση αριθμών Carmichael:
+			Έστω αριθμός $n$ με τρεις πρώτους παράγοντες $n=p\cdot q\cdot r$ , με $p<q<r$. Από τα προηγούμενα καταλαβαίνουμε ότι χρειαζόμαστε τριπλέτες $(p,q,r)$ για τις οποίες θα ισχύουν τα εξής:
+			
+			\begin{gather*}
+			(i) \quad p-1|q\cdot r-1 \quad (or \quad q\cdot r \equiv 1 \mod (p-1)) \\ 
+			(ii) \quad q-1|p\cdot r-1 \\ 
+			(iii) \quad r-1|p\cdot q-1 
+			\end{gather*}
+			
+			Δοθεί ένα ζευγάρι πρώτον αριθμών $(p,q)$ με $p<q$, η ακόλουθη διαδικασία θα εντωπίσει όλους τους πρώτους $r>q$ τέτοιοι ώστε το $p\cdot q\cdot r$ να είναι αριθμός Carmichael.
+			
+			Έστω οι ζυγοί διαρέτες (αν υπάρχουν) $d$ του $p\cdot q -1$ με $p<d<p\cdot q -1$ και ελέγχουμε αν $d+1 (=r)$ είναι πρώτος, εξαιρούμε το $d=p\cdot q-1$ καθώς θα μας έδινε $r=p\cdot q$. Τότε έχουμε εξασφαλίσει το (iii) και ελέγχουμε λοιπόν αν ισχύουν τα (ii) και (ii).
+			
+			Το κάνουμε για όλα τα ζευγάρια πρώτων $(p,q)$, όπου $p\cdot q\cdot r < 3000$, για πρώτους $r>q$. Όμως λόγω του (3) αφήνουμε εκτός τους συνδυασμούς για τους οποίους ισχύει: $q \equiv 1 \mod p$ (π.χ $(3,7)$).
+			
+			Καταγράφουμε μόνο τις τιμές του $d$ όπου το $r$ είναι πρώτος.
+			Όπως παρατηρούμε και στον πίνακα από κάτω δεν υπάρχει μικρότερος  Carmichael με τρείς παράγοντες από τον 561.
+			\begin{center}
+				\begin{tabular}{||c c c c c c c||} 
+					\hline
+					$(p,q)$ & $p\cdot q-1$ & $d$ & $r$  & (i) & (ii)  & Carmichael \\ [0.5ex] 
+					\hline\hline
+					$(3,5)$ & $14$ & $-$ & $-$ &  &  &  \\ 
+					\hline
+					$(3,11)$ & $32$ & $16$ & $17$ & yes & yes & $3\cdot 11 \cdot 17 = 561$ \\
+					\hline
+					$(3,17)$ & $50$ & $-$ & $-$ &  &  &  \\
+					\hline
+					$(3,23)$ & $68$ & $-$ & $-$ &  &  &  \\
+					\hline
+					$(5,7)$ & $34$ & $-$ & $-$ &  &  &  \\ [1ex] 
+					\hline
+					$(5,13)$ & $64$ & $16$ & $17$ & yes & yes & $5\cdot 13 \cdot 17 = 1105$ \\ [1ex] 
+					\hline
+					$(5,17)$ & $84$ & $28$ & $29$ & yes & yes & $5\cdot 17 \cdot 29 = 2465$ \\ [1ex] 
+					\hline
+					$ $ & $ $ & $42$ & $43$ & no &  &  \\ [1ex] 
+					\hline
+					$(5,19)$ & $94$ & $-$ & $-$ &  &  &  \\ [1ex] 
+					\hline
+					$(7,11)$ & $76$ & $-$ & $-$ &  &  &  \\ [1ex] 
+					\hline
+					$(7,13)$ & $90$ & $18$ & $19$ & yes & yes & $7\cdot 13 \cdot 19 = 1729$ \\ [1ex] 
+					\hline
+					$ $ & $ $ & $30$ & $31$ & yes & yes & $7\cdot 13 \cdot 31 = 2821$ \\ [1ex] 
+					\hline
+					$(7,17)$ & $118$ & $-$ & $-$ &  &  &  \\ [1ex] 
+					\hline
+					$(11,13)$ & $142$ & $-$ & $-$ &  &  &  \\ [1ex] 
+					\hline
+					
+				\end{tabular}
+			\end{center}
+			
+			Το δεύτερο ερώτημα επιλύθηκε με βοήθεια κώδικα.
+			
+			Κώδικας σε \lt{python}
+			{\lt{
+					$$No31\_Smaller\_Carmichael\_4\_Factors.ipynb$$
+			}}
+	}}
 	
 	\bibliographystyle{plain}
 	\bibliography{bib.bib}
