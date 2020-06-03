@@ -1,0 +1,14 @@
+#!/bin/bash
+
+end=$((SECONDS+5))
+n=$((10))
+
+while [ $SECONDS -lt $end ]; do
+	entropy=$(cat /proc/sys/kernel/random/entropy_avail)
+	#echo $entropy
+	if [ "$entropy" -lt "$n" ];then
+		openssl genrsa -des3 -passout pass:qqqq 2048 > "private${i}.pem"
+		echo $entropy
+	fi
+	:
+done
