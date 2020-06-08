@@ -7,7 +7,7 @@ while [ $SECONDS -lt $end ]; do
 	entropy=$(cat /proc/sys/kernel/random/entropy_avail)
 	#echo $entropy
 	if [ "$entropy" -lt "$n" ];then
-		openssl genrsa -des3 -passout pass:qqqq 2048 > "private${i}.pem"
+		openssl genrsa -des3 -passout pass:qqqq 2048 > "private.pem"
 		echo $entropy
 	fi
 	:
