@@ -265,8 +265,8 @@
 	
 	\addcontentsline{toc}{section}{Περίληψη}
 	\section*{{\color{maroon}Περίληψη}}
-	
-	..............
+	Η παρούσα εργασία αποτελεί {\lt{project}} στα πλαίσια του μαθήματος "Θεμελιώσεις Κρυπτογραφίας". Σκοπός της εργασίας αυτής είναι η εξικοίωσή μας με διάφορους κρυπτογραφικούς αλγορίθμους και τεχνικές, το θεωρητικό τους υπόβαθρο καθώς και τις εφαρμογές τους σε σενάρια πραγματικού κόσμου.\\\\
+	\textbf{NOTE:} Ο κώδικας στα αρχεία {\lt{.ipynb}} είναι επαρκώς σχολιασμένος και για τον λόγο αυτό δεν έχουμε συμπεριλάβει επιπρόσθετο σχολιασμό στην αναφορά όπου δεν κρίναμε απαραίτητο. Για επεξηγήσεις και σχόλια, παρακαλώ ανατρέξτε στο αρχείο κώδικα της κάθε άσκησης. 
 	% leave blank page before main part
 	\blankpage
 	
@@ -591,7 +591,7 @@
 	{\lt{
 			Έχουμε το σύστημα των γραμμικών ισοδυναμιών
 			\begin{gather*} 
-				x \equiv 9 \pmod{19} \\
+				x \equiv 9 \pmod{17} \\
 				x \equiv 9 \pmod{12} \\
 				x \equiv 13 \pmod{19}
 			\end{gather*}
@@ -628,6 +628,9 @@
 	\section*{{\color{maroon}Θέμα 14}}
 	\section*{\lt{Miller-Rabin Test}}
 	{\lt{
+			REFERENCE:
+			\href{https://mathworld.wolfram.com/LuckyNumberofEuler.html}{LuckyNumberofEuler}\\
+			
 			\begin{enumerate}
 				\item We can see that a big portion of the total numbers generated from $f(x) = x^2 + x - 1354363$, about 2/5 of the total, are primes
 				\item A lucky number of Euler is a number p such that the prime-generating polynomial:\\
@@ -644,8 +647,6 @@
 				Therefore, the only lucky numbers of Euler are 2, 3, 5, 11, 17, and 41 (Le Lionnais 1983, OEIS A014556), and
 				\textbf{there does not exist a better prime-generating polynomial of Euler's form}.
 				
-				REFERENCE:
-				\href{https://mathworld.wolfram.com/LuckyNumberofEuler.html}{LuckyNumberofEuler}
 			\end{enumerate}
 	}}
 	Κώδικας με σχόλια στο αρχείο:
@@ -715,7 +716,7 @@
 			\item {\lt{message2 = "the program"}}
 			\item {\lt{key = "supersecret"}}
 		\end{itemize}
-		Αν μετατρέψουμε κάθε μήνυμα σε hex strings, και τα κρυπτογραφήσουμε χρησιμοποιώντας το ίδιο κλειδί, θα πάρουμε τα εξής {\lt{cipher-texts}}:
+		Αν μετατρέψουμε κάθε μήνυμα σε {\lt{hex strings}}, και τα κρυπτογραφήσουμε χρησιμοποιώντας το ίδιο κλειδί, θα πάρουμε τα εξής {\lt{cipher-texts}}:
 		\begin{itemize}
 			\item {\lt{cipher-text1: "3b101c091d53320c000910"}}
 			\item {\lt{cipher-text2: "071d154502010a04000419"}}
@@ -807,15 +808,15 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 22}
 	\section*{{\color{maroon}Θέμα 22}}
-	\section*{\lt{3.1}}
+	\section*{\lt{3.1) 4n+3 }}
 	{\lt{
 			Αρχικά θέλουμε να αποδείξουμε ότι οι αριθμοί της μορφής $4n+3$ δεν είναι τέλεια τετράγωνα.
 			Αρχικά για $n\leq0$ εύκολα παρατηρούμε ότι ισχύει η παραπάνω πρόταση. Αυτό συμβαίνει καθώς για $n=0$ έχουμε το $3$ το οποίο δεν είναι τέλειο τετράγωνο και για $n < 0$ το $4n+3$ είναι αρνητικός. 
 			
 			Έστω ότι,
-			$$4n+3=a^2, \quad n,a \in \mathbb{N}^* (1)$$
+			$$4n+3=a^2, \quad n,a \in \mathbb{N}^* \quad (1)$$
 			
-			Εφόσον $a\in \mathbb{N}^*$, τότε μπορούμε να πούμε ότι $a=2k+1, \quad k \in \mathbb{N}$.
+			Μια σημείωση εδώ είναι ότι το $4n+3$ μπορεί να γραφεί ως $2(2n+1)+1$ άρα είναι περιττός, οπότε και το $a$ θα είναι περιττός, και με $a\in \mathbb{N}^*$, τότε μπορούμε να πούμε ότι $a=2k+1, \quad k \in \mathbb{N}$.
 			
 			Αντικαθιστώντας το $a$ στην (1) έχουμε:
 			\begin{gather*}
@@ -832,12 +833,18 @@
 			
 			Για το δεύτερο ερώτημα παρατηρούμε ότι όλοι αριθμοί
 			$$11,111,...,111\cdotp\cdotp\cdotp111,...$$ 
-			μπορούν να γραφούν στην μορφής $(4n+3) + 10^q$, συνεπώς αυτό το σύνολο αριθμών δεν θα έχει τέλειο τετράγωνο.
+			μπορούν να γραφούν ως εξής:
+			\begin{gather*}
+			11 = 8 + 3 \\
+			111 = 108 + 3 \\
+			111\cdotp\cdotp\cdotp 11 = 11\cdotp\cdotp\cdotp 08 +3
+			\end{gather*}
+			Οι αριθμοί $8,108,\cdotp\cdotp\cdotp,1\cdotp\cdotp\cdotp 08$ διαιρούνται από το 4. Για αυτό παρατηρούμε ότι κάθε αριθμός της ακολουθίας είναι της μορφής $4n+3$. Όπως αποδείξαμε προηγουμένως οι αριθμοί αυτή της μορφής αυτής δεν έχουν τέλεια τετράγωνα.
 	}}
 	
 	\addcontentsline{toc}{section}{Θέμα 23}
 	\section*{{\color{maroon}Θέμα 23}}
-	\section*{\lt{3.4}}
+	\section*{\lt{3.4) Sum of consecutive numbers not equals $2^{x}$}}
 	{\lt{
 			Υπάρχουν δύο περιπτώσεις που θα χρειαστεί να εξετάσουμε.
 			
@@ -859,7 +866,7 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 24}
 	\section*{{\color{maroon}Θέμα 24}}
-		\section*{\lt{3.7}}
+		\section*{\lt{3.7) $n^5 + 1$ divides $ n^{10} - 1 , \forall n \in \mathbb{N}$}}
 	{\lt{
 			Έστω ότι $$a = n^5 + 1, b = n^{10} - 1, c = n^5 - 1$$
 			
@@ -871,7 +878,7 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 25}
 	\section*{{\color{maroon}Θέμα 25}}
-		\section*{\lt{3.19}}
+		\section*{\lt{3.19) }}
 	Κώδικας με σχόλια στο αρχείο:
 	{\lt{
 			$$No25\_Maths\_3\_19.ipynb$$
@@ -879,7 +886,7 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 26}
 	\section*{{\color{maroon}Θέμα 26}}
-		\section*{\lt{3.23}}
+		\section*{\lt{3.23) If n divides a$\cdot$b and gcd(n,a) $=$ 1, then n divides b}}
 	{\lt{
 			Από την εκφώνηση έχουμε δύο δεδομένα: 
 			$$(1)\quad gcd(n,a) = 1$$ 
@@ -895,7 +902,7 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 27}
 	\section*{{\color{maroon}Θέμα 27}}
-	\section*{\lt{3.26}}
+	\section*{\lt{3.26) If gcd(a,b) $=$ 1, then...}}
 	{\lt{
 			\begin{enumerate}[label=(\roman*)]
 				\item Έστω ότι $d_1 = \gcd(c,b)$ και $d_2 = \gcd(ac,b)$
@@ -961,7 +968,7 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 28}
 	\section*{{\color{maroon}Θέμα 28}}
-		\section*{\lt{3.40}}
+		\section*{\lt{3.40) Compute φ(1134) and φ(2457)}}
 	Κώδικας με σχόλια στο αρχείο:
 	{\lt{
 			$$No28\_Maths\_3\_40.ipynb$$
@@ -969,7 +976,7 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 29}
 	\section*{{\color{maroon}Θέμα 29}}
-		\section*{\lt{3.42}}
+		\section*{\lt{3.42) Compute π(x), x/ln(x) and Li(x), 2 < x < 1000}}
 	Κώδικας με σχόλια στο αρχείο:
 	{\lt{
 			$$No29\_Maths\_3\_42.ipynb$$
@@ -977,7 +984,7 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 30}
 	\section*{{\color{maroon}Θέμα 30}}
-	\section*{\lt{3.70}}
+	\section*{\lt{3.70) Korselt - Carmichael}}
 	{\lt{
 			Υπόθεση:\\
 			$
@@ -995,7 +1002,7 @@
 	
 	\addcontentsline{toc}{section}{Θέμα 31}
 	\section*{{\color{maroon}Θέμα 31}}
-	\section*{\lt{3.74}}
+	\section*{\lt{3.74) Carmichael}}
 	{\lt{
 			Παρατηρούμε ότι $561(=3\cdot 11 \cdot 17)$ είναι αριθμός Carmichael. Θα βρούμε όλους του αριθμούς Carmichael μέχρι $Ν(=3000)$.
 			
@@ -1074,8 +1081,5 @@
 					$$No31\_Smaller\_Carmichael\_4\_Factors.ipynb$$
 			}}
 	}}
-	
-	\bibliographystyle{plain}
-	\bibliography{bib.bib}
 	
 \end{document} 
